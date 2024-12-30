@@ -1,0 +1,1001 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,weekday
+84BFC1F137684EAB,classic_bike,"2023-12-02 23:12:00","2023-12-02 23:21:00","DuSable Museum",KA1503000075,"Cottage Grove Ave & 51st St",TA1309000067,42,-88,42,-88,member,9,Saturday
+EEC92D30A70471E5,classic_bike,"2023-12-14 13:43:00","2023-12-14 13:44:00","California Ave & Division St",13256,"California Ave & Division St",13256,42,-88,42,-88,casual,1,Thursday
+1C33464DEEB1F23C,electric_bike,"2023-12-04 11:57:00","2023-12-04 12:13:00","Chicago State University",20106,"Chicago State University",20106,42,-88,42,-88,casual,16,Monday
+E0A61810C305E5EC,classic_bike,"2023-12-04 09:34:00","2023-12-04 09:35:00","Cottage Grove Ave & 51st St",TA1309000067,"Cottage Grove Ave & 51st St",TA1309000067,42,-88,42,-88,casual,1,Monday
+0706CEB2E1924F3D,classic_bike,"2023-12-04 09:36:00","2023-12-04 09:36:00","Cottage Grove Ave & 51st St",TA1309000067,"Cottage Grove Ave & 51st St",TA1309000067,42,-88,42,-88,casual,0,Monday
+EB09035006DCCB2C,electric_bike,"2023-12-02 06:06:00","2023-12-02 06:09:00","Chicago State University",20106,"Chicago State University",20106,42,-88,42,-88,casual,3,Saturday
+81EE8687F217E531,classic_bike,"2023-12-27 23:55:00","2023-12-28 01:43:00","California Ave & Milwaukee Ave",13084,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,casual,108,Wednesday
+2C519D5FC6290C41,electric_bike,"2023-12-02 13:08:00","2023-12-02 13:14:00","California Ave & Division St",13256,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,member,6,Saturday
+BACE7E3BCE0919A8,electric_bike,"2023-12-24 07:38:00","2023-12-24 07:45:00","California Ave & Division St",13256,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,member,7,Sunday
+DCCFC2DE81C0B1F9,electric_bike,"2023-12-25 10:23:00","2023-12-25 10:25:00","California Ave & Division St",13256,"California Ave & Division St",13256,42,-88,42,-88,member,2,Monday
+2FBAFF4EC6AEB4DE,electric_bike,"2023-12-08 09:09:00","2023-12-08 09:09:00","Morgan Ave & 14th Pl",TA1306000002,"Morgan Ave & 14th Pl",TA1306000002,42,-88,42,-88,member,0,Friday
+8A178A3DA876A8EA,electric_bike,"2023-12-13 17:38:00","2023-12-13 18:40:00","California Ave & Division St",13256,"California Ave & Division St",13256,42,-88,42,-88,casual,62,Wednesday
+4740E76FD512DEC9,electric_bike,"2023-12-04 10:13:00","2023-12-04 10:14:00","Wood St & Chicago Ave",637,"Wood St & Chicago Ave",637,42,-88,42,-88,member,1,Monday
+D6B91278625BC3EE,electric_bike,"2023-12-16 07:55:00","2023-12-16 07:57:00","California Ave & Milwaukee Ave",13084,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,casual,2,Saturday
+8D3136BCCFDFA98A,electric_bike,"2023-12-04 09:23:00","2023-12-04 09:24:00","Wood St & Chicago Ave",637,"Wood St & Chicago Ave",637,42,-88,42,-88,member,1,Monday
+E498734109102C15,electric_bike,"2023-12-02 10:41:00","2023-12-02 10:41:00","Wood St & Chicago Ave",637,"Wood St & Chicago Ave",637,42,-88,42,-88,member,0,Saturday
+4B038145FCA01B8A,classic_bike,"2023-12-17 16:42:00","2023-12-17 16:53:00","California Ave & Milwaukee Ave",13084,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,member,11,Sunday
+31E402C56A28993E,electric_bike,"2023-12-02 00:18:00","2023-12-02 00:34:00","California Ave & Milwaukee Ave",13084,"Western Ave & Roscoe St",15634,42,-88,42,-88,member,16,Saturday
+A4E044F7C6C0148A,classic_bike,"2023-12-09 12:56:00","2023-12-09 13:16:00","Western Ave & Roscoe St",15634,"California Ave & Division St",13256,42,-88,42,-88,member,20,Saturday
+69A00FE578C5B403,classic_bike,"2023-12-08 13:47:00","2023-12-08 14:06:00","California Ave & Division St",13256,"Western Ave & Roscoe St",15634,42,-88,42,-88,member,19,Friday
+0E58B62D55BFF29D,classic_bike,"2023-12-20 16:43:00","2023-12-20 16:53:00","Western Ave & Roscoe St",15634,"Campbell Ave & Montrose Ave",15623,42,-88,42,-88,member,10,Wednesday
+43DD1DE977B2D2A4,classic_bike,"2023-12-20 16:30:00","2023-12-20 16:39:00","Campbell Ave & Montrose Ave",15623,"Western Ave & Roscoe St",15634,42,-88,42,-88,member,9,Wednesday
+D5EB95FFAD7C0AA0,electric_bike,"2023-12-30 13:48:00","2023-12-30 13:50:00","Morgan Ave & 14th Pl",TA1306000002,"Morgan Ave & 14th Pl",TA1306000002,42,-88,42,-88,member,2,Saturday
+0752904D1985BF92,classic_bike,"2023-12-10 02:44:00","2023-12-10 02:48:00","California Ave & Milwaukee Ave",13084,"California Ave & Milwaukee Ave",13084,42,-88,42,-88,member,4,Sunday
+D724D83837E8BC1D,electric_bike,"2023-12-11 16:03:00","2023-12-11 16:03:00","Public Rack - Robert Fulton Elementary School",819,"Public Rack - Robert Fulton Elementary School",819,42,-88,42,-88,member,0,Monday
+8624FB58E34A757A,electric_bike,"2023-12-20 18:32:00","2023-12-20 18:33:00","Morgan Ave & 14th Pl",TA1306000002,"Morgan Ave & 14th Pl",TA1306000002,42,-88,42,-88,member,1,Wednesday
+33E78AD0B03A4E21,electric_bike,"2023-12-05 05:41:00","2023-12-05 05:42:00","Wood St & Chicago Ave",637,"Wood St & Chicago Ave",637,42,-88,42,-88,member,1,Tuesday
+A76BD4505BDBEE61,electric_bike,"2023-12-07 16:06:00","2023-12-07 16:13:00","Green St & Washington Blvd",13053,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,7,Thursday
+DB3FCB803C067370,electric_bike,"2023-12-29 15:16:00","2023-12-29 15:25:00","Green St & Washington Blvd",13053,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,9,Friday
+487D230E16C5E176,electric_bike,"2023-12-12 11:49:00","2023-12-12 11:53:00","Green St & Washington Blvd",13053,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,4,Tuesday
+0B1A141C4AF320D8,classic_bike,"2023-12-05 10:33:00","2023-12-05 10:44:00","LaSalle St & Jackson Blvd",TA1309000004,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,11,Tuesday
+DFA092B30564E786,electric_bike,"2023-12-19 00:46:00","2023-12-19 00:59:00","Halsted St & 96th St",20105,"Public Rack - Racine Ave & 109th Pl",877,42,-88,42,-88,member,13,Tuesday
+178B7C0578929C26,electric_bike,"2023-12-21 20:20:00","2023-12-21 20:36:00","Wabash Ave & Roosevelt Rd",TA1305000002,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,16,Thursday
+B2B1EB75D068CBE9,electric_bike,"2023-12-29 22:06:00","2023-12-29 22:19:00","Wabash Ave & Roosevelt Rd",TA1305000002,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,13,Friday
+754C14A4BBEF9093,electric_bike,"2023-12-22 13:43:00","2023-12-22 14:03:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,20,Friday
+157AFFD52EEB69A2,classic_bike,"2023-12-09 13:41:00","2023-12-09 13:51:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,10,Saturday
+5319D9DC6BD3B9BE,electric_bike,"2023-12-20 10:57:00","2023-12-20 11:07:00","Green St & Washington Blvd",13053,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,10,Wednesday
+0216035FB93D9829,classic_bike,"2023-12-12 08:49:00","2023-12-12 08:56:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,7,Tuesday
+270F6A1229BF4A3B,classic_bike,"2023-12-31 10:35:00","2023-12-31 10:42:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,7,Sunday
+9B3A528EE87A13F6,classic_bike,"2023-12-21 08:34:00","2023-12-21 08:42:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,8,Thursday
+F4E822D9449D414F,classic_bike,"2023-12-05 08:49:00","2023-12-05 08:57:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,8,Tuesday
+E66AC2F8D07DE15E,classic_bike,"2023-12-20 08:33:00","2023-12-20 08:42:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Adler Planetarium",13431,42,-88,42,-88,member,9,Wednesday
+C1D4E8071D5B080D,classic_bike,"2023-12-06 09:10:00","2023-12-06 09:33:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Morgan St & Lake St*",chargingstx4,42,-88,42,-88,member,23,Wednesday
+4C123CA25FE28E89,classic_bike,"2023-12-15 07:16:00","2023-12-15 07:25:00","Morgan St & 31st St",TA1308000046,"Ashland Ave & Archer Ave",15442,42,-88,42,-88,member,9,Friday
+28437027152CDAC4,electric_bike,"2023-12-17 11:49:00","2023-12-17 11:58:00","Kedzie Ave & Palmer Ct",13292,"Milwaukee Ave & Wabansia Ave",13243,42,-88,42,-88,member,9,Sunday
+E9C9A17F4EDBAA2C,classic_bike,"2023-12-21 16:38:00","2023-12-21 16:52:00","LaSalle St & Jackson Blvd",TA1309000004,"Racine Ave & Congress Pkwy",TA1306000025,42,-88,42,-88,member,14,Thursday
+B08197DB24344E0A,electric_bike,"2023-12-19 08:24:00","2023-12-19 08:26:00","LaSalle St & Jackson Blvd",TA1309000004,"LaSalle St & Washington St",13006,42,-88,42,-88,member,2,Tuesday
+DC99DA1E6BB1D186,electric_bike,"2023-12-04 08:19:00","2023-12-04 08:22:00","LaSalle St & Jackson Blvd",TA1309000004,"LaSalle St & Washington St",13006,42,-88,42,-88,member,3,Monday
+204AF700432CEDB5,electric_bike,"2023-12-18 08:21:00","2023-12-18 08:24:00","LaSalle St & Jackson Blvd",TA1309000004,"LaSalle St & Washington St",13006,42,-88,42,-88,member,3,Monday
+F816E5F0226B014F,electric_bike,"2023-12-06 08:24:00","2023-12-06 08:28:00","LaSalle St & Jackson Blvd",TA1309000004,"LaSalle St & Washington St",13006,42,-88,42,-88,member,4,Wednesday
+C3E47D7A79C8E4A6,classic_bike,"2023-12-06 14:59:00","2023-12-06 15:04:00","Green St & Washington Blvd",13053,"LaSalle St & Washington St",13006,42,-88,42,-88,member,5,Wednesday
+AD05B7693E6A694F,electric_bike,"2023-12-29 11:37:00","2023-12-29 11:42:00","Green St & Washington Blvd",13053,"Carpenter St & Huron St",13196,42,-88,42,-88,member,5,Friday
+89EAFD10B34ED2B1,classic_bike,"2023-12-01 18:07:00","2023-12-01 18:31:00","LaSalle St & Jackson Blvd",TA1309000004,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,24,Friday
+9152A81EAD160007,classic_bike,"2023-12-24 11:24:00","2023-12-24 11:40:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,16,Sunday
+F74AB465D7642B87,classic_bike,"2023-12-27 08:08:00","2023-12-27 08:21:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,13,Wednesday
+F938B063E5974CFF,electric_bike,"2023-12-09 13:15:00","2023-12-09 13:34:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,member,19,Saturday
+3E3A88C7E1CB52DE,classic_bike,"2023-12-06 16:49:00","2023-12-06 16:56:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,7,Wednesday
+C2575DBDE1231585,classic_bike,"2023-12-26 08:08:00","2023-12-26 08:37:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,29,Tuesday
+EA346F886BDD07EB,classic_bike,"2023-12-14 18:22:00","2023-12-14 18:54:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Carpenter St & Huron St",13196,42,-88,42,-88,member,32,Thursday
+0E94631F75C6026C,classic_bike,"2023-12-02 11:16:00","2023-12-02 11:19:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,3,Saturday
+9FA5F35D8086232E,classic_bike,"2023-12-10 20:46:00","2023-12-10 20:56:00","Wabash Ave & Roosevelt Rd",TA1305000002,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,member,10,Sunday
+05012C06C8D5C88D,classic_bike,"2023-12-10 07:20:00","2023-12-10 07:28:00","Morgan St & 31st St",TA1308000046,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,8,Sunday
+9ACC4C69E322E180,classic_bike,"2023-12-13 09:05:00","2023-12-13 09:16:00","Ashland Ave & Grand Ave",13434,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,11,Wednesday
+347AC8E04CD8CE32,classic_bike,"2023-12-29 19:50:00","2023-12-29 20:00:00","Ashland Ave & Grand Ave",13434,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,10,Friday
+CF15064EA6A82FB1,electric_bike,"2023-12-19 15:09:00","2023-12-19 15:13:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Tuesday
+A646622F5D22C754,classic_bike,"2023-12-06 15:32:00","2023-12-06 15:36:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Wednesday
+C467E198D486D3AB,electric_bike,"2023-12-11 16:43:00","2023-12-11 16:58:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,15,Monday
+97B89AAB9B198E79,electric_bike,"2023-12-11 13:59:00","2023-12-11 14:06:00","LaSalle St & Jackson Blvd",TA1309000004,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,7,Monday
+A4C07709E63E1793,electric_bike,"2023-12-04 14:02:00","2023-12-04 14:09:00","LaSalle St & Jackson Blvd",TA1309000004,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,7,Monday
+19DC76A4418CD3CB,classic_bike,"2023-12-15 13:23:00","2023-12-15 13:37:00","Wabash Ave & Roosevelt Rd",TA1305000002,"May St & Taylor St",13160,42,-88,42,-88,member,14,Friday
+5DDA25B3CF58207C,classic_bike,"2023-12-28 08:41:00","2023-12-28 08:44:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Thursday
+13A4BE41EC972171,electric_bike,"2023-12-11 08:13:00","2023-12-11 08:20:00","Ashland Ave & Grand Ave",13434,"Clinton St & Lake St",13021,42,-88,42,-88,member,7,Monday
+7A9A8825874D45AA,electric_bike,"2023-12-15 12:30:00","2023-12-15 12:39:00","Green St & Washington Blvd",13053,"Ashland Ave & Division St",13061,42,-88,42,-88,member,9,Friday
+6A0538797E0C8195,classic_bike,"2023-12-15 10:43:00","2023-12-15 10:51:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,8,Friday
+7155BC7657E31909,classic_bike,"2023-12-04 09:15:00","2023-12-04 09:21:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Monday
+980A21D385D0CE5D,electric_bike,"2023-12-13 18:37:00","2023-12-13 18:43:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Lake St",13021,42,-88,42,-88,member,6,Wednesday
+55B1F45697E74ED8,electric_bike,"2023-12-27 07:50:00","2023-12-27 07:57:00","Ashland Ave & Grand Ave",13434,"Hermitage Ave & Polk St",13080,42,-88,42,-88,member,7,Wednesday
+6BBC0324395792F9,classic_bike,"2023-12-08 21:58:00","2023-12-08 22:00:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,2,Friday
+54688AD65BDC77AC,classic_bike,"2023-12-27 09:46:00","2023-12-27 09:52:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Wednesday
+120EE06794522157,classic_bike,"2023-12-14 20:22:00","2023-12-14 20:30:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Calumet Ave & 21st St",15546,42,-88,42,-88,member,8,Thursday
+13EB8E6AD3A01AB6,classic_bike,"2023-12-29 19:36:00","2023-12-29 19:42:00","Ashland Ave & Grand Ave",13434,"Ashland Ave & Division St",13061,42,-88,42,-88,member,6,Friday
+2E0D70AFC16AA70D,electric_bike,"2023-12-14 10:11:00","2023-12-14 10:14:00","Green St & Washington Blvd",13053,"Clinton St & Lake St",13021,42,-88,42,-88,member,3,Thursday
+3EC3959E9BC0725A,classic_bike,"2023-12-07 22:53:00","2023-12-07 23:02:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,9,Thursday
+C7503758C9D582A1,classic_bike,"2023-12-12 22:59:00","2023-12-12 23:02:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Tuesday
+89861940099EBC22,electric_bike,"2023-12-01 12:02:00","2023-12-01 12:10:00","LaSalle St & Jackson Blvd",TA1309000004,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,8,Friday
+149C450E440C1D9F,classic_bike,"2023-12-02 13:15:00","2023-12-02 13:18:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Saturday
+C91F7D48FFFE0E6F,classic_bike,"2023-12-13 20:27:00","2023-12-13 20:30:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Wednesday
+F644DFB151DE73C3,classic_bike,"2023-12-06 17:53:00","2023-12-06 17:55:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,2,Wednesday
+C0B470963492915B,classic_bike,"2023-12-09 14:12:00","2023-12-09 14:16:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,4,Saturday
+8D62DA202C4F8876,classic_bike,"2023-12-06 22:55:00","2023-12-06 22:58:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Wednesday
+0E90E175E6DCA93C,classic_bike,"2023-12-20 16:51:00","2023-12-20 16:54:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Wednesday
+C3F02F10BCB0780B,classic_bike,"2023-12-11 20:23:00","2023-12-11 20:26:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Monday
+5C40A1178347A658,classic_bike,"2023-12-09 21:47:00","2023-12-09 21:50:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Saturday
+6572B931EBCE597B,classic_bike,"2023-12-17 17:07:00","2023-12-17 17:10:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Sunday
+831D577C234B742D,classic_bike,"2023-12-31 12:14:00","2023-12-31 12:17:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Sunday
+B3DE3C61FC504181,classic_bike,"2023-12-19 17:13:00","2023-12-19 17:16:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Tuesday
+1DCBAF7EE8C13216,classic_bike,"2023-12-29 15:14:00","2023-12-29 15:17:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Friday
+AFE6A5E5F47C1CD2,classic_bike,"2023-12-08 16:36:00","2023-12-08 16:40:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,4,Friday
+099401D274C2EA3E,electric_bike,"2023-12-04 13:19:00","2023-12-04 13:27:00","LaSalle St & Jackson Blvd",TA1309000004,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,8,Monday
+562FF720E319F248,electric_bike,"2023-12-28 10:33:00","2023-12-28 10:40:00","LaSalle St & Jackson Blvd",TA1309000004,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,7,Thursday
+44787D7AA7DD1DE9,classic_bike,"2023-12-04 14:55:00","2023-12-04 14:58:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Monday
+C568E70D41988468,classic_bike,"2023-12-22 10:35:00","2023-12-22 10:38:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Friday
+88EECE19F13055DD,electric_bike,"2023-12-17 13:36:00","2023-12-17 13:39:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,3,Sunday
+1EEDBE4FD42B3C06,classic_bike,"2023-12-08 10:49:00","2023-12-08 10:53:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 16th St",SL-012,42,-88,42,-88,member,4,Friday
+ECAC7F3481B4F108,classic_bike,"2023-12-13 15:50:00","2023-12-13 15:55:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,5,Wednesday
+F9BB3362FA117177,classic_bike,"2023-12-12 17:18:00","2023-12-12 17:25:00","LaSalle St & Jackson Blvd",TA1309000004,"Federal St & Polk St",SL-008,42,-88,42,-88,member,7,Tuesday
+4127D9B7DD36FA74,classic_bike,"2023-12-28 06:41:00","2023-12-28 06:47:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,6,Thursday
+CAF47C2D034BDAE7,classic_bike,"2023-12-12 07:37:00","2023-12-12 07:41:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,4,Tuesday
+A1024986DDA05A3A,classic_bike,"2023-12-10 12:17:00","2023-12-10 12:21:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,4,Sunday
+EC1806DA839E5D6A,electric_bike,"2023-12-08 17:06:00","2023-12-08 17:10:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,4,Friday
+80DA05E84A4204FA,electric_bike,"2023-12-02 09:28:00","2023-12-02 09:33:00","Wilton Ave & Diversey Pkwy",TA1306000014,"DuSable Lake Shore Dr & Diversey Pkwy",TA1309000039,42,-88,42,-88,member,5,Saturday
+A636458D95AF18F9,classic_bike,"2023-12-23 19:33:00","2023-12-23 19:36:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,3,Saturday
+744E7C6D907BD4D9,electric_bike,"2023-12-21 17:41:00","2023-12-21 18:00:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Campbell Ave & Fullerton Ave",15648,42,-88,42,-88,member,19,Thursday
+41A68E22B5578B3F,electric_bike,"2023-12-31 18:16:00","2023-12-31 18:34:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Campbell Ave & Fullerton Ave",15648,42,-88,42,-88,member,18,Sunday
+E4E789081E5D7271,classic_bike,"2023-12-19 20:20:00","2023-12-19 20:26:00","Wilton Ave & Diversey Pkwy",TA1306000014,"DuSable Lake Shore Dr & Diversey Pkwy",TA1309000039,42,-88,42,-88,member,6,Tuesday
+614E41468ED88E02,classic_bike,"2023-12-13 23:14:00","2023-12-13 23:18:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,4,Wednesday
+62BC6E8A6A3BA47F,classic_bike,"2023-12-13 15:36:00","2023-12-13 15:47:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Clarendon Ave & Leland Ave",TA1307000119,42,-88,42,-88,member,11,Wednesday
+608498D381C010E5,classic_bike,"2023-12-06 19:10:00","2023-12-06 19:16:00","Wilton Ave & Diversey Pkwy",TA1306000014,"DuSable Lake Shore Dr & Diversey Pkwy",TA1309000039,42,-88,42,-88,member,6,Wednesday
+DAE57A07EAF7F89F,classic_bike,"2023-12-14 13:58:00","2023-12-14 14:05:00","Wilton Ave & Diversey Pkwy",TA1306000014,"DuSable Lake Shore Dr & Diversey Pkwy",TA1309000039,42,-88,42,-88,member,7,Thursday
+8B0C25CEECC69465,classic_bike,"2023-12-31 17:21:00","2023-12-31 17:27:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,6,Sunday
+E4939E677835B0FF,classic_bike,"2023-12-10 21:22:00","2023-12-10 21:28:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,6,Sunday
+35BDBBC76068314A,classic_bike,"2023-12-11 09:22:00","2023-12-11 09:29:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,7,Monday
+E53B8F2CA538403E,electric_bike,"2023-12-27 09:31:00","2023-12-27 09:46:00","Morgan St & 31st St",TA1308000046,"State St & 35th St",TA1307000129,42,-88,42,-88,member,15,Wednesday
+14C64C29E10A26AB,classic_bike,"2023-12-04 19:20:00","2023-12-04 19:24:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,4,Monday
+1AA33742C81C853D,classic_bike,"2023-12-07 08:59:00","2023-12-07 09:15:00","Morgan St & 31st St",TA1308000046,"State St & 35th St",TA1307000129,42,-88,42,-88,member,16,Thursday
+859F1789C2C2F082,classic_bike,"2023-12-22 11:30:00","2023-12-22 11:35:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,5,Friday
+4579FBE6A483B8EA,classic_bike,"2023-12-02 13:46:00","2023-12-02 13:49:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Federal St & Polk St",SL-008,42,-88,42,-88,member,3,Saturday
+36EAB6CB324C7517,electric_bike,"2023-12-16 10:52:00","2023-12-16 11:02:00","Sedgwick St & North Ave",TA1307000038,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Saturday
+BB222584BD106229,electric_bike,"2023-12-03 13:49:00","2023-12-03 13:52:00","Sangamon St & Lake St",TA1306000015,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,3,Sunday
+4F7647628E569565,classic_bike,"2023-12-06 12:37:00","2023-12-06 12:41:00","Sangamon St & Lake St",TA1306000015,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,4,Wednesday
+5F758BFE4F23D9E3,classic_bike,"2023-12-27 17:50:00","2023-12-27 18:04:00","Malcolm X College",631,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,14,Wednesday
+75D63C4C5E565947,classic_bike,"2023-12-30 18:51:00","2023-12-30 19:06:00","Malcolm X College",631,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,15,Saturday
+5E221086EDF41D84,electric_bike,"2023-12-07 16:51:00","2023-12-07 16:55:00","Sangamon St & Lake St",TA1306000015,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,4,Thursday
+44B124F4AD8BD72A,classic_bike,"2023-12-16 09:26:00","2023-12-16 09:27:00","Franklin St & Chicago Ave",13017,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,1,Saturday
+971D8C678B9CBFD4,classic_bike,"2023-12-18 17:49:00","2023-12-18 17:58:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,9,Monday
+1A9607469E83DB8F,classic_bike,"2023-12-19 17:44:00","2023-12-19 17:55:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,11,Tuesday
+BF2EA625B6892607,classic_bike,"2023-12-21 17:47:00","2023-12-21 17:58:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,11,Thursday
+25B99F8CD871DA5C,classic_bike,"2023-12-20 17:25:00","2023-12-20 17:35:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Wednesday
+0B3B89AEA0B6FD72,classic_bike,"2023-12-13 16:42:00","2023-12-13 16:55:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,13,Wednesday
+309C3B07DCCC8006,electric_bike,"2023-12-14 15:15:00","2023-12-14 15:23:00","Michigan Ave & Washington St",13001,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,8,Thursday
+129130BE27F76F1A,electric_bike,"2023-12-11 14:55:00","2023-12-11 14:57:00","Franklin St & Chicago Ave",13017,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,2,Monday
+F7F03EF7716AE0A9,classic_bike,"2023-12-22 10:09:00","2023-12-22 10:17:00","Franklin St & Chicago Ave",13017,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,8,Friday
+F63A105039C1C875,electric_bike,"2023-12-10 07:52:00","2023-12-10 07:59:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,7,Sunday
+7F606CD647DBC6CC,electric_bike,"2023-12-29 06:34:00","2023-12-29 06:40:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,6,Friday
+357274656823A6D5,electric_bike,"2023-12-25 07:51:00","2023-12-25 07:57:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,6,Monday
+961606FFAEE9DE5C,classic_bike,"2023-12-11 12:25:00","2023-12-11 12:30:00","Sangamon St & Washington Blvd",13409,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,5,Monday
+60266B8F1BBDEF0D,electric_bike,"2023-12-06 16:08:00","2023-12-06 16:15:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,7,Wednesday
+CA1C8454CEAF67D0,electric_bike,"2023-12-18 14:52:00","2023-12-18 14:57:00","Wacker Dr & Washington St",KA1503000072,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,5,Monday
+50C0D3ADE9789701,classic_bike,"2023-12-21 15:07:00","2023-12-21 15:15:00","Wacker Dr & Washington St",KA1503000072,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,8,Thursday
+B84F050D91EF8D4C,electric_bike,"2023-12-31 10:15:00","2023-12-31 10:20:00","St. Clair St & Erie St",13016,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,5,Sunday
+D5E9498B57A230EB,electric_bike,"2023-12-19 16:37:00","2023-12-19 16:43:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,6,Tuesday
+6592C01B56FE938E,electric_bike,"2023-12-15 15:19:00","2023-12-15 15:27:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,8,Friday
+09A1D374B194F375,electric_bike,"2023-12-20 19:10:00","2023-12-20 19:16:00","St. Clair St & Erie St",13016,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,casual,6,Wednesday
+06027D55E9DC55F4,electric_bike,"2023-12-09 11:46:00","2023-12-09 12:14:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,casual,28,Saturday
+5BE79780E480D34A,electric_bike,"2023-12-28 06:18:00","2023-12-28 06:24:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,6,Thursday
+02D773D2176E8304,electric_bike,"2023-12-20 16:26:00","2023-12-20 16:34:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,8,Wednesday
+BFC86A459DFD146F,electric_bike,"2023-12-09 11:48:00","2023-12-09 12:13:00","St. Clair St & Erie St",13016,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,casual,25,Saturday
+DB08D611E42DAF65,electric_bike,"2023-12-10 09:33:00","2023-12-10 09:37:00","St. Clair St & Erie St",13016,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,casual,4,Sunday
+56AA2A9C9DAB4795,classic_bike,"2023-12-08 14:58:00","2023-12-08 15:06:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,8,Friday
+C2DF4331CAD38D71,classic_bike,"2023-12-06 15:19:00","2023-12-06 15:26:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,7,Wednesday
+E54F730DA62883BD,classic_bike,"2023-12-07 16:19:00","2023-12-07 16:26:00","Wacker Dr & Washington St",KA1503000072,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,7,Thursday
+DA3CD91698D2C8B6,electric_bike,"2023-12-15 14:06:00","2023-12-15 14:26:00","N Sheffield Ave & W Wellington Ave",20256,"Francisco Ave & Montrose Ave",446,42,-88,42,-88,member,20,Friday
+AAABCCD4FDE1BFE4,electric_bike,"2023-12-14 14:08:00","2023-12-14 14:25:00","N Sheffield Ave & W Wellington Ave",20256,"Francisco Ave & Montrose Ave",446,42,-88,42,-88,member,17,Thursday
+47F1CD4F813EC7AF,electric_bike,"2023-12-12 14:14:00","2023-12-12 14:31:00","N Sheffield Ave & W Wellington Ave",20256,"Francisco Ave & Montrose Ave",446,42,-88,42,-88,member,17,Tuesday
+57A728B0174764DA,electric_bike,"2023-12-09 09:41:00","2023-12-09 09:45:00","Whipple/Irving Park",475,"Francisco Ave & Montrose Ave",446,42,-88,42,-88,member,4,Saturday
+D094F365C233A0EB,electric_bike,"2023-12-28 15:36:00","2023-12-28 15:44:00","Dearborn St & Van Buren St",624,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,8,Thursday
+B9F140AE41E4DF24,electric_bike,"2023-12-09 20:06:00","2023-12-09 20:11:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Canal St & Taylor St",15550,42,-88,42,-88,member,5,Saturday
+B20950114CAF0C00,classic_bike,"2023-12-08 11:43:00","2023-12-08 11:53:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,10,Friday
+B2ADEFEBFD01F16B,classic_bike,"2023-12-23 14:48:00","2023-12-23 15:06:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Michigan Ave & Washington St",13001,42,-88,42,-88,member,18,Saturday
+A92385A88A9C90AC,classic_bike,"2023-12-02 06:41:00","2023-12-02 06:49:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,8,Saturday
+BAE9167C3878CDD6,classic_bike,"2023-12-02 13:07:00","2023-12-02 13:54:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Michigan Ave & Washington St",13001,42,-88,42,-88,casual,47,Saturday
+F0631366AD5BBD70,classic_bike,"2023-12-07 08:22:00","2023-12-07 08:31:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,9,Thursday
+5269525C9FA652E0,classic_bike,"2023-12-12 18:14:00","2023-12-12 18:41:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"California Ave & Fletcher St",15642,42,-88,42,-88,member,27,Tuesday
+354504B54A122000,electric_bike,"2023-12-09 19:40:00","2023-12-09 19:49:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,9,Saturday
+AC20FB758F6BDC73,classic_bike,"2023-12-04 08:03:00","2023-12-04 08:35:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,32,Monday
+C6A8C6FF2A2D362E,classic_bike,"2023-12-19 08:56:00","2023-12-19 09:01:00","LaSalle St & Jackson Blvd",TA1309000004,"Michigan Ave & Washington St",13001,42,-88,42,-88,member,5,Tuesday
+49AB37E23CEF31E8,classic_bike,"2023-12-07 16:59:00","2023-12-07 17:07:00","LaSalle St & Jackson Blvd",TA1309000004,"Michigan Ave & Washington St",13001,42,-88,42,-88,member,8,Thursday
+F1BDAC1C913440B8,electric_bike,"2023-12-15 16:32:00","2023-12-15 16:37:00","Clark St & Berwyn Ave",KA1504000146,"Broadway & Argyle St",13108,42,-88,42,-88,member,5,Friday
+CCD0390BF6D8B409,classic_bike,"2023-12-07 15:31:00","2023-12-07 15:34:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,3,Thursday
+4809873715B73C2F,electric_bike,"2023-12-06 15:05:00","2023-12-06 15:14:00","LaSalle St & Jackson Blvd",TA1309000004,"Franklin St & Chicago Ave",13017,42,-88,42,-88,member,9,Wednesday
+DDF1F34DD09BE4A2,electric_bike,"2023-12-19 18:01:00","2023-12-19 18:06:00","Clark St & Berwyn Ave",KA1504000146,"Broadway & Argyle St",13108,42,-88,42,-88,member,5,Tuesday
+131F9B40B6ED6D55,electric_bike,"2023-12-02 21:15:00","2023-12-02 21:21:00","Clark St & Berwyn Ave",KA1504000146,"Lakefront Trail & Bryn Mawr Ave",15576,42,-88,42,-88,member,6,Saturday
+ABDC500440A63646,classic_bike,"2023-12-06 12:19:00","2023-12-06 12:30:00","Green St & Washington Blvd",13053,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,11,Wednesday
+BDACFCAB05F15F2D,classic_bike,"2023-12-18 08:37:00","2023-12-18 08:46:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,9,Monday
+5CC1B6FA7188C5C5,electric_bike,"2023-12-12 06:27:00","2023-12-12 06:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Tuesday
+2DCEDFE9C371F621,electric_bike,"2023-12-19 10:12:00","2023-12-19 10:13:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Tuesday
+CB675AB1BFEA6084,electric_bike,"2023-12-16 21:39:00","2023-12-16 21:48:00","Morgan St & 31st St",TA1308000046,"Western Ave & 21st St",13091,42,-88,42,-88,member,9,Saturday
+76E51A9164AB39BD,classic_bike,"2023-12-06 06:27:00","2023-12-06 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Wednesday
+B2EF56831A687EF3,classic_bike,"2023-12-26 23:28:00","2023-12-26 23:41:00","LaSalle St & Jackson Blvd",TA1309000004,"Morgan St & 18th St",13163,42,-88,42,-88,member,13,Tuesday
+952AB1C9FED36ED1,electric_bike,"2023-12-27 06:26:00","2023-12-27 06:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Wednesday
+0FB0BABC24F7BBDC,classic_bike,"2023-12-11 06:27:00","2023-12-11 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Monday
+AF8A3C5F170CB2B8,classic_bike,"2023-12-07 23:19:00","2023-12-07 23:32:00","LaSalle St & Jackson Blvd",TA1309000004,"Morgan St & 18th St",13163,42,-88,42,-88,member,13,Thursday
+1801158C0305C336,electric_bike,"2023-12-18 06:26:00","2023-12-18 06:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Monday
+EC11ABC33F12EC44,classic_bike,"2023-12-09 00:21:00","2023-12-09 00:34:00","LaSalle St & Jackson Blvd",TA1309000004,"Morgan St & 18th St",13163,42,-88,42,-88,member,13,Saturday
+AA37EB634369FA7B,classic_bike,"2023-12-21 06:28:00","2023-12-21 06:30:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Thursday
+8C716688AE211D19,classic_bike,"2023-12-13 23:10:00","2023-12-13 23:23:00","LaSalle St & Jackson Blvd",TA1309000004,"Morgan St & 18th St",13163,42,-88,42,-88,member,13,Wednesday
+D8EA7EC47EC479C5,electric_bike,"2023-12-14 06:29:00","2023-12-14 06:31:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Thursday
+59F9B22EFA57A50F,classic_bike,"2023-12-07 06:27:00","2023-12-07 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Thursday
+E0C00C0B3D929F47,electric_bike,"2023-12-15 06:27:00","2023-12-15 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Friday
+250773831DB3DD79,electric_bike,"2023-12-20 06:28:00","2023-12-20 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Wednesday
+8B760C20B15E2246,electric_bike,"2023-12-01 06:27:00","2023-12-01 06:30:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,3,Friday
+842E70E5971888AB,electric_bike,"2023-12-29 06:28:00","2023-12-29 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Friday
+AAF192FF4DA533E8,electric_bike,"2023-12-04 06:28:00","2023-12-04 06:30:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Monday
+72AE35ED688A97B6,classic_bike,"2023-12-05 23:15:00","2023-12-05 23:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Morgan St & 18th St",13163,42,-88,42,-88,member,13,Tuesday
+C4DD8B65E4808FA2,electric_bike,"2023-12-13 06:27:00","2023-12-13 06:29:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,2,Wednesday
+DD241316CDE8A00A,electric_bike,"2023-12-05 06:46:00","2023-12-05 06:47:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Tuesday
+7184B8FA48EC6CF6,electric_bike,"2023-12-28 06:26:00","2023-12-28 06:27:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,1,Thursday
+ED94D91161AC295B,classic_bike,"2023-12-29 12:53:00","2023-12-29 13:07:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Michigan Ave & Washington St",13001,42,-88,42,-88,member,14,Friday
+6C932913A269FE09,classic_bike,"2023-12-17 11:44:00","2023-12-17 12:12:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Lakefront Trail & Bryn Mawr Ave",15576,42,-88,42,-88,member,28,Sunday
+1F6F4E70E96E8DC9,classic_bike,"2023-12-11 14:36:00","2023-12-11 14:44:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Canal St & Taylor St",15550,42,-88,42,-88,member,8,Monday
+1777B0D9FB4710FD,classic_bike,"2023-12-07 15:07:00","2023-12-07 15:16:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Canal St & Taylor St",15550,42,-88,42,-88,member,9,Thursday
+A9D80F879E68085C,classic_bike,"2023-12-06 10:53:00","2023-12-06 11:03:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,10,Wednesday
+864F6AB03E2F7C35,classic_bike,"2023-12-20 08:41:00","2023-12-20 08:48:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,7,Wednesday
+8896DAA9FC36300E,classic_bike,"2023-12-08 11:43:00","2023-12-08 11:54:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Monroe St",TA1305000006,42,-88,42,-88,member,11,Friday
+15DC21E0B1162537,electric_bike,"2023-12-04 19:05:00","2023-12-04 19:22:00","Green St & Washington Blvd",13053,"Morgan St & 18th St",13163,42,-88,42,-88,member,17,Monday
+18BB786CFE04BB89,classic_bike,"2023-12-10 11:26:00","2023-12-10 11:50:00","Broadway & Belmont Ave",13277,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,24,Sunday
+AB6C04C2BBA4C68E,classic_bike,"2023-12-15 12:51:00","2023-12-15 13:16:00","Sedgwick St & North Ave",TA1307000038,"Wood St & Taylor St (Temp)",13285,42,-88,42,-88,member,25,Friday
+605DCB3E601B1BA3,classic_bike,"2023-12-30 09:09:00","2023-12-30 10:07:00","Clifton Ave & Armitage Ave",TA1307000163,"Adler Planetarium",13431,42,-88,42,-88,member,58,Saturday
+0ECEFF9DDD1A92DE,electric_bike,"2023-12-05 00:57:00","2023-12-05 01:07:00","Public Rack - Halsted St & 95th St - SE",627,"Public Rack - Racine Ave & 109th Pl",877,42,-88,42,-88,member,10,Tuesday
+F795020B64C069E2,classic_bike,"2023-12-24 11:14:00","2023-12-24 11:39:00","Broadway & Belmont Ave",13277,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,25,Sunday
+712E85D5D37A3DD6,classic_bike,"2023-12-03 11:30:00","2023-12-03 11:56:00","Broadway & Belmont Ave",13277,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,26,Sunday
+A05B906159085A75,electric_bike,"2023-12-14 16:11:00","2023-12-14 16:17:00","Sangamon St & Lake St",TA1306000015,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,6,Thursday
+96C29257EE3720BC,classic_bike,"2023-12-27 11:18:00","2023-12-27 11:43:00","Broadway & Belmont Ave",13277,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,25,Wednesday
+535CDB04802B1357,classic_bike,"2023-12-24 17:57:00","2023-12-24 18:04:00","Wacker Dr & Washington St",KA1503000072,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,7,Sunday
+7F17D131132813F8,electric_bike,"2023-12-15 05:55:00","2023-12-15 05:57:00","St. Clair St & Erie St",13016,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,2,Friday
+2C1BA6477FAF3B9B,classic_bike,"2023-12-17 15:35:00","2023-12-17 15:38:00","St. Clair St & Erie St",13016,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,3,Sunday
+6678D9E56E73924F,classic_bike,"2023-12-29 15:44:00","2023-12-29 15:55:00","University Ave & 57th St",KA1503000071,"Harper Ave & 59th St",KA1503000070,42,-88,42,-88,member,11,Friday
+6DACD1F25BACF1FB,electric_bike,"2023-12-21 16:56:00","2023-12-21 17:01:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,5,Thursday
+6814CB656D380050,electric_bike,"2023-12-14 12:52:00","2023-12-14 12:56:00","Wacker Dr & Washington St",KA1503000072,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,4,Thursday
+025ABC642012F778,classic_bike,"2023-12-26 13:58:00","2023-12-26 14:11:00","Wacker Dr & Washington St",KA1503000072,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,13,Tuesday
+59E585709CA85BC8,classic_bike,"2023-12-09 18:07:00","2023-12-09 18:13:00","Southport Ave & Waveland Ave",13235,"Ashland Ave & Belle Plaine Ave",13249,42,-88,42,-88,member,6,Saturday
+14A4647E6B804850,classic_bike,"2023-12-30 07:00:00","2023-12-30 07:03:00","St. Clair St & Erie St",13016,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,3,Saturday
+A3994DC8598498F6,electric_bike,"2023-12-19 07:34:00","2023-12-19 07:41:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,7,Tuesday
+9BCFDF4ED94DAFA1,electric_bike,"2023-12-17 02:06:00","2023-12-17 02:17:00","St. Clair St & Erie St",13016,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,casual,11,Sunday
+3D0E90953E7C1930,electric_bike,"2023-12-17 02:09:00","2023-12-17 02:17:00","St. Clair St & Erie St",13016,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,casual,8,Sunday
+16DB232302C2D5C4,electric_bike,"2023-12-14 07:47:00","2023-12-14 07:55:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,casual,8,Thursday
+79193ACA6BA43F46,electric_bike,"2023-12-09 18:08:00","2023-12-09 18:13:00","Southport Ave & Waveland Ave",13235,"Ashland Ave & Belle Plaine Ave",13249,42,-88,42,-88,casual,5,Saturday
+85921816494900EE,electric_bike,"2023-12-06 07:29:00","2023-12-06 07:34:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,5,Wednesday
+ADCEF0368D812A27,classic_bike,"2023-12-25 00:53:00","2023-12-25 00:56:00","St. Clair St & Erie St",13016,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,3,Monday
+A1CAD2CFC3BC420A,electric_bike,"2023-12-06 07:47:00","2023-12-06 07:56:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,casual,9,Wednesday
+6110410D9DDC330E,electric_bike,"2023-12-15 07:48:00","2023-12-15 07:58:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,casual,10,Friday
+89FD29C4C8B9C5EC,electric_bike,"2023-12-19 07:30:00","2023-12-19 07:35:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,5,Tuesday
+5DFA3CE3739D3B19,electric_bike,"2023-12-14 07:25:00","2023-12-14 07:31:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,6,Thursday
+1BD5F0782949B2D5,electric_bike,"2023-12-20 06:55:00","2023-12-20 07:01:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,6,Wednesday
+7BA81CC3E70203EC,electric_bike,"2023-12-30 12:50:00","2023-12-30 13:02:00","Sangamon St & Washington Blvd",13409,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,12,Saturday
+BC2CD5990E4B010D,classic_bike,"2023-12-11 18:26:00","2023-12-11 18:46:00","Sangamon St & Washington Blvd",13409,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,20,Monday
+EC275BFBA772D13C,classic_bike,"2023-12-15 17:02:00","2023-12-15 17:23:00","Sangamon St & Washington Blvd",13409,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,21,Friday
+C0D662B575B2CE30,classic_bike,"2023-12-14 07:33:00","2023-12-14 07:40:00","Wacker Dr & Washington St",KA1503000072,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,7,Thursday
+A31D12753BC9450C,classic_bike,"2023-12-24 15:10:00","2023-12-24 15:13:00","St. Clair St & Erie St",13016,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,3,Sunday
+F0C33594D72B7AA3,electric_bike,"2023-12-12 16:20:00","2023-12-12 16:25:00","Dearborn St & Monroe St",TA1305000006,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,5,Tuesday
+957B3F8471F74B0D,electric_bike,"2023-12-13 16:21:00","2023-12-13 16:26:00","Dearborn St & Monroe St",TA1305000006,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,5,Wednesday
+AC0ECC47EF049544,electric_bike,"2023-12-19 17:18:00","2023-12-19 17:24:00","Dearborn St & Monroe St",TA1305000006,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,6,Tuesday
+648A34BCC89717EC,electric_bike,"2023-12-07 16:36:00","2023-12-07 16:41:00","Dearborn St & Monroe St",TA1305000006,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,5,Thursday
+98F1009A958C1AC0,electric_bike,"2023-12-06 13:51:00","2023-12-06 13:56:00","Dearborn St & Monroe St",TA1305000006,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,5,Wednesday
+FBED7252F169DFDE,classic_bike,"2023-12-31 11:22:00","2023-12-31 11:31:00","Michigan Ave & Washington St",13001,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,9,Sunday
+E653937E5E70948B,electric_bike,"2023-12-21 11:57:00","2023-12-21 12:01:00","Throop St & Taylor St",13139,"Wood St & Taylor St (Temp)",13285,42,-88,42,-88,member,4,Thursday
+E9B2E646CA0C6579,classic_bike,"2023-12-22 14:40:00","2023-12-22 14:47:00","California Ave & Fletcher St",15642,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,7,Friday
+E2EF609E82420EE1,classic_bike,"2023-12-20 11:41:00","2023-12-20 11:51:00","Dearborn St & Monroe St",TA1305000006,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,10,Wednesday
+18C56EBF5A26128C,electric_bike,"2023-12-06 06:41:00","2023-12-06 06:55:00","Wood St & Milwaukee Ave",13221,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,14,Wednesday
+8490661FDCAEB353,classic_bike,"2023-12-19 14:43:00","2023-12-19 14:45:00","Michigan Ave & Washington St",13001,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,2,Tuesday
+0BA7F609004C12F1,electric_bike,"2023-12-11 07:26:00","2023-12-11 07:32:00","Dearborn St & Monroe St",TA1305000006,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,6,Monday
+E7AE1F3F81207291,electric_bike,"2023-12-04 08:33:00","2023-12-04 08:45:00","Morgan St & 18th St",13163,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,casual,12,Monday
+B5FF3489F6C6D204,classic_bike,"2023-12-06 10:35:00","2023-12-06 10:50:00","Canal St & Taylor St",15550,"Wood St & Taylor St (Temp)",13285,42,-88,42,-88,casual,15,Wednesday
+31E5971951B6367A,classic_bike,"2023-12-09 11:51:00","2023-12-09 11:58:00","California Ave & Fletcher St",15642,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,7,Saturday
+F2905EDEE654FB17,classic_bike,"2023-12-15 22:37:00","2023-12-15 22:42:00","California Ave & Fletcher St",15642,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,5,Friday
+204F2E10ECF03768,electric_bike,"2023-12-09 22:46:00","2023-12-09 22:54:00","Michigan Ave & Washington St",13001,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,casual,8,Saturday
+B06FBE16095EC3A2,classic_bike,"2023-12-15 17:36:00","2023-12-15 17:42:00","California Ave & Fletcher St",15642,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,casual,6,Friday
+FB411B2C6ACE1EDD,classic_bike,"2023-12-01 09:22:00","2023-12-01 09:27:00","Throop St & Taylor St",13139,"Wood St & Taylor St (Temp)",13285,42,-88,42,-88,member,5,Friday
+BBB851F13FEB205A,classic_bike,"2023-12-07 07:39:00","2023-12-07 07:49:00","South Shore Dr & 67th St",KA1503000029,"Stony Island Ave & 67th St",KA1503000023,42,-88,42,-88,member,10,Thursday
+1FB9296AEA6CDB7F,classic_bike,"2023-12-25 14:03:00","2023-12-25 14:39:00","Dearborn St & Monroe St",TA1305000006,"Adler Planetarium",13431,42,-88,42,-88,member,36,Monday
+2295A97E7938BB8F,classic_bike,"2023-12-16 21:26:00","2023-12-16 21:32:00","Canal St & Taylor St",15550,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,6,Saturday
+2EC648BE0386FCD3,classic_bike,"2023-12-07 08:06:00","2023-12-07 08:20:00","Franklin St & Chicago Ave",13017,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,casual,14,Thursday
+D300FDD2784FA3DB,classic_bike,"2023-12-09 13:23:00","2023-12-09 13:32:00","Franklin St & Chicago Ave",13017,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,casual,9,Saturday
+E7BAC4953C988BE7,electric_bike,"2023-12-16 20:37:00","2023-12-16 20:45:00","Michigan Ave & Washington St",13001,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,8,Saturday
+0C4C5445933FC600,classic_bike,"2023-12-07 21:46:00","2023-12-07 22:25:00","California Ave & Fletcher St",15642,"Wood St & Taylor St (Temp)",13285,42,-88,42,-88,member,39,Thursday
+243ED0CDED24B513,electric_bike,"2023-12-04 20:24:00","2023-12-04 20:39:00","Wood St & Milwaukee Ave",13221,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,15,Monday
+89C7400C4BE28D2D,classic_bike,"2023-12-19 16:34:00","2023-12-19 16:46:00","Dearborn St & Monroe St",TA1305000006,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,12,Tuesday
+498AE5523586EDC7,classic_bike,"2023-12-07 17:25:00","2023-12-07 17:39:00","Dearborn St & Van Buren St",624,"Indiana Ave & 26th St",TA1307000005,42,-88,42,-88,member,14,Thursday
+9AC2E3941C4E4BB4,electric_bike,"2023-12-26 11:34:00","2023-12-26 11:48:00","Campbell Ave & 51st St",383,"Kedzie Ave & 57th St",346,42,-88,42,-88,casual,14,Tuesday
+3EF52F2618BD7E14,classic_bike,"2023-12-04 08:42:00","2023-12-04 08:58:00","Sedgwick St & North Ave",TA1307000038,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,16,Monday
+60EA0771C6CBEE3A,electric_bike,"2023-12-02 06:55:00","2023-12-02 06:57:00","Shields Ave & 31st St",KA1503000038,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,2,Saturday
+F207713297EE9F30,classic_bike,"2023-12-08 13:12:00","2023-12-08 13:15:00","Shields Ave & 31st St",KA1503000038,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,3,Friday
+1E034B421B6496BC,classic_bike,"2023-12-11 16:34:00","2023-12-11 16:39:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,5,Monday
+B219BB32B0BD642C,classic_bike,"2023-12-17 12:35:00","2023-12-17 12:42:00","Ashland Ave & Chicago Ave",13247,"Carpenter St & Huron St",13196,42,-88,42,-88,member,7,Sunday
+5CBCA682F5405B43,classic_bike,"2023-12-10 13:11:00","2023-12-10 13:16:00","Ashland Ave & Chicago Ave",13247,"Carpenter St & Huron St",13196,42,-88,42,-88,member,5,Sunday
+CAF881C826F6D32A,electric_bike,"2023-12-04 09:36:00","2023-12-04 09:46:00","Ashland Ave & Chicago Ave",13247,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,10,Monday
+824E5948F1DFEED3,classic_bike,"2023-12-15 12:56:00","2023-12-15 13:02:00","Dearborn St & Monroe St",TA1305000006,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,member,6,Friday
+799C46FC6617DC8E,electric_bike,"2023-12-03 16:12:00","2023-12-03 16:17:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,5,Sunday
+BA96751F3F2E160A,electric_bike,"2023-12-08 16:28:00","2023-12-08 16:33:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,5,Friday
+20ABD066FC82FA57,classic_bike,"2023-12-23 14:50:00","2023-12-23 15:08:00","South Shore Dr & 67th St",KA1503000029,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,18,Saturday
+779BD1AB0AAED275,classic_bike,"2023-12-29 11:42:00","2023-12-29 11:50:00","Wood St & Milwaukee Ave",13221,"Carpenter St & Huron St",13196,42,-88,42,-88,member,8,Friday
+23304BD8FE32CC24,classic_bike,"2023-12-20 23:07:00","2023-12-20 23:15:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,8,Wednesday
+7E57981E6552EFC5,electric_bike,"2023-12-08 15:38:00","2023-12-08 16:39:00","Michigan Ave & Washington St",13001,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,61,Friday
+66184F3F1F114214,classic_bike,"2023-12-07 17:55:00","2023-12-07 18:05:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,10,Thursday
+5F9AC66BCF7F8214,electric_bike,"2023-12-22 13:58:00","2023-12-22 14:07:00","Franklin St & Chicago Ave",13017,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,9,Friday
+90A6911597745934,classic_bike,"2023-12-09 12:36:00","2023-12-09 13:01:00","Larrabee St & Armitage Ave",TA1309000006,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,25,Saturday
+B6E43D3618A4DDFF,classic_bike,"2023-12-09 12:35:00","2023-12-09 13:01:00","Larrabee St & Armitage Ave",TA1309000006,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,26,Saturday
+24CAD7EB5089B41A,classic_bike,"2023-12-09 12:35:00","2023-12-09 13:02:00","Larrabee St & Armitage Ave",TA1309000006,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,27,Saturday
+67FB0C061C65CB4A,classic_bike,"2023-12-08 16:08:00","2023-12-08 16:14:00","Dearborn St & Monroe St",TA1305000006,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,6,Friday
+7CCDCF337B9F7D3C,classic_bike,"2023-12-07 11:17:00","2023-12-07 11:20:00","Wood St & Milwaukee Ave",13221,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,3,Thursday
+A13A4F74AFF00AC0,electric_bike,"2023-12-08 15:39:00","2023-12-08 16:38:00","Michigan Ave & Washington St",13001,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,59,Friday
+2E6197DFFEB569CD,classic_bike,"2023-12-08 15:43:00","2023-12-08 16:38:00","Michigan Ave & Washington St",13001,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,55,Friday
+0B5655FE6A1400B2,electric_bike,"2023-12-21 20:15:00","2023-12-21 20:30:00","Wood St & Milwaukee Ave",13221,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,15,Thursday
+1A257E3958406DC6,classic_bike,"2023-12-17 15:55:00","2023-12-17 16:46:00","Lakefront Trail & Bryn Mawr Ave",15576,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,casual,51,Sunday
+713376CC033DA5B7,electric_bike,"2023-12-20 16:48:00","2023-12-20 16:55:00","Franklin St & Chicago Ave",13017,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,7,Wednesday
+A94524D5C06B74B6,classic_bike,"2023-12-18 16:07:00","2023-12-18 16:15:00","Franklin St & Chicago Ave",13017,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,8,Monday
+4188AE9506751C06,electric_bike,"2023-12-07 12:57:00","2023-12-07 13:06:00","Franklin St & Chicago Ave",13017,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,9,Thursday
+69BB99E792D9E036,classic_bike,"2023-12-11 23:15:00","2023-12-11 23:22:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,7,Monday
+5B498FB4E335151E,classic_bike,"2023-12-10 20:12:00","2023-12-10 20:18:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,6,Sunday
+1094482D9A68F231,classic_bike,"2023-12-06 22:14:00","2023-12-06 22:21:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,7,Wednesday
+ABA3B51B156C3379,classic_bike,"2023-12-05 21:07:00","2023-12-05 21:13:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,6,Tuesday
+9FB709891FF65DBC,classic_bike,"2023-12-04 21:14:00","2023-12-04 21:20:00","Canal St & Taylor St",15550,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,6,Monday
+4F1E1ED7498F4FAE,classic_bike,"2023-12-02 00:40:00","2023-12-02 00:43:00","Wood St & Milwaukee Ave",13221,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,casual,3,Saturday
+2B4BA130EC284318,classic_bike,"2023-12-25 11:45:00","2023-12-25 11:53:00","Michigan Ave & Washington St",13001,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,8,Monday
+787CCE16A4AA282C,classic_bike,"2023-12-05 12:13:00","2023-12-05 12:29:00","Wood St & Milwaukee Ave",13221,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,16,Tuesday
+EB91602B6BFD8C7C,classic_bike,"2023-12-19 19:43:00","2023-12-19 19:46:00","Wood St & Milwaukee Ave",13221,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,3,Tuesday
+DA00B301DBCC4EBF,electric_bike,"2023-12-08 09:53:00","2023-12-08 10:04:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,11,Friday
+37DEDC0D5BD1BD3E,electric_bike,"2023-12-15 03:03:00","2023-12-15 03:10:00","Broadway & Granville Ave",15571,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,7,Friday
+D97D356CECC7BAA3,classic_bike,"2023-12-08 00:45:00","2023-12-08 00:54:00","Broadway & Granville Ave",15571,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,9,Friday
+17CB0613069718D1,electric_bike,"2023-12-13 09:33:00","2023-12-13 09:41:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Wednesday
+849925E7E0838507,classic_bike,"2023-12-07 10:30:00","2023-12-07 10:42:00","Halsted St & 35th St",TA1308000043,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,12,Thursday
+29E3F23A7C02AA25,classic_bike,"2023-12-01 21:03:00","2023-12-01 21:11:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Friday
+7793A9B29B77874A,classic_bike,"2023-12-25 10:46:00","2023-12-25 11:01:00","Halsted St & 35th St",TA1308000043,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,15,Monday
+451CE0C1D04075C4,classic_bike,"2023-12-20 23:13:00","2023-12-20 23:35:00","Clark St & Lunt Ave",KA1504000162,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,22,Wednesday
+40AF5F4D8F981803,electric_bike,"2023-12-03 15:27:00","2023-12-03 15:36:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,9,Sunday
+4245DB5242079278,classic_bike,"2023-12-04 23:05:00","2023-12-04 23:12:00","Halsted St & 35th St",TA1308000043,"Loomis St & Archer Ave",KA1503000040,42,-88,42,-88,member,7,Monday
+092C8C9E66B35AE6,classic_bike,"2023-12-12 15:30:00","2023-12-12 15:41:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,11,Tuesday
+EC3356F1DB586C27,classic_bike,"2023-12-26 18:12:00","2023-12-26 18:24:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,12,Tuesday
+53053827378E9261,electric_bike,"2023-12-30 08:56:00","2023-12-30 09:02:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,6,Saturday
+13C57EE609E8EA59,electric_bike,"2023-12-28 19:09:00","2023-12-28 19:16:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,7,Thursday
+B12A7E00F2643F02,classic_bike,"2023-12-14 16:08:00","2023-12-14 16:21:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,13,Thursday
+C83B1A8DB51028CF,classic_bike,"2023-12-18 15:50:00","2023-12-18 16:04:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,14,Monday
+9AA798F67B124856,classic_bike,"2023-12-12 19:42:00","2023-12-12 19:49:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,7,Tuesday
+48C2C7256058C770,classic_bike,"2023-12-13 05:20:00","2023-12-13 05:24:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,4,Wednesday
+98C1522942B8FFE5,electric_bike,"2023-12-01 12:41:00","2023-12-01 12:44:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,3,Friday
+CE879F9C4249BA23,classic_bike,"2023-12-08 16:20:00","2023-12-08 16:30:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,10,Friday
+DED0FAA74BF1E773,classic_bike,"2023-12-21 18:44:00","2023-12-21 18:54:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,10,Thursday
+EFFB27FF9726F0D8,electric_bike,"2023-12-09 18:59:00","2023-12-09 19:31:00","St. Clair St & Erie St",13016,"Carpenter St & Huron St",13196,42,-88,42,-88,casual,32,Saturday
+EC62AC01B68C7CDC,electric_bike,"2023-12-17 16:14:00","2023-12-17 16:25:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,11,Sunday
+7AA9F7CCDBA10E3D,classic_bike,"2023-12-14 19:30:00","2023-12-14 19:42:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,12,Thursday
+DE16FEDFB39D72F7,classic_bike,"2023-12-25 07:24:00","2023-12-25 07:35:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,11,Monday
+901593E042E6C43F,classic_bike,"2023-12-05 16:26:00","2023-12-05 16:34:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Tuesday
+B70493499F05D347,electric_bike,"2023-12-10 20:03:00","2023-12-10 20:06:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,3,Sunday
+46F433959805C91D,classic_bike,"2023-12-08 15:36:00","2023-12-08 15:50:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,14,Friday
+58DA77D60BBA52A2,classic_bike,"2023-12-11 17:20:00","2023-12-11 17:31:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,11,Monday
+A94853DAAC92753F,classic_bike,"2023-12-11 11:09:00","2023-12-11 11:22:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,13,Monday
+C9EBD576B641628D,electric_bike,"2023-12-23 16:30:00","2023-12-23 16:41:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,11,Saturday
+8675165CCDA9261D,classic_bike,"2023-12-23 15:29:00","2023-12-23 15:41:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,12,Saturday
+0F716CBDF6935EA9,classic_bike,"2023-12-06 18:17:00","2023-12-06 18:22:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,5,Wednesday
+07B22C8FA6A6EE14,electric_bike,"2023-12-22 13:30:00","2023-12-22 13:33:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,3,Friday
+1AA24EF253836BD9,classic_bike,"2023-12-08 18:32:00","2023-12-08 18:47:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,15,Friday
+CC645D041AE748C1,electric_bike,"2023-12-02 14:07:00","2023-12-02 14:13:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,6,Saturday
+90E0252F26395F0D,electric_bike,"2023-12-14 08:43:00","2023-12-14 08:50:00","Halsted St & 35th St",TA1308000043,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,7,Thursday
+4D840AA6FE35FD18,electric_bike,"2023-12-10 13:38:00","2023-12-10 13:49:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,11,Sunday
+3515379E9F047E81,classic_bike,"2023-12-16 09:15:00","2023-12-16 09:19:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Saturday
+77CECA6314C9B737,classic_bike,"2023-12-17 10:17:00","2023-12-17 10:21:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Sunday
+AABEAAF4CE3F835E,classic_bike,"2023-12-30 16:52:00","2023-12-30 17:02:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,10,Saturday
+1C86DEFBBB147956,electric_bike,"2023-12-30 16:52:00","2023-12-30 17:02:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,10,Saturday
+4D65E1A52EC73CEA,classic_bike,"2023-12-04 16:03:00","2023-12-04 16:11:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,8,Monday
+02004774A9A9E7D5,electric_bike,"2023-12-12 18:15:00","2023-12-12 18:28:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,13,Tuesday
+2C27548244A5C521,classic_bike,"2023-12-01 13:48:00","2023-12-01 13:59:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,11,Friday
+31A0B654DA453A57,classic_bike,"2023-12-13 19:15:00","2023-12-13 19:30:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,15,Wednesday
+1B704ADA31516D25,classic_bike,"2023-12-14 13:28:00","2023-12-14 13:39:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,11,Thursday
+B7D0D2A9C49425CF,classic_bike,"2023-12-06 14:54:00","2023-12-06 15:04:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,10,Wednesday
+1F656ED3DA17F875,classic_bike,"2023-12-09 14:11:00","2023-12-09 14:24:00","St. Clair St & Erie St",13016,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,member,13,Saturday
+F92C8FEDE1B20EAE,classic_bike,"2023-12-07 19:15:00","2023-12-07 19:21:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,6,Thursday
+9CF01EC4A9AE45C5,classic_bike,"2023-12-15 20:08:00","2023-12-15 20:17:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,9,Friday
+D4774F1ADD6EA064,classic_bike,"2023-12-02 15:41:00","2023-12-02 15:55:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,14,Saturday
+CB0AF75257AF9E16,classic_bike,"2023-12-02 17:20:00","2023-12-02 17:27:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,7,Saturday
+0BF9AD03A0FB982A,classic_bike,"2023-12-02 13:42:00","2023-12-02 13:52:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,10,Saturday
+0FDD6329D093C898,electric_bike,"2023-12-02 15:41:00","2023-12-02 15:55:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,14,Saturday
+CD51947D1AECC766,classic_bike,"2023-12-17 13:54:00","2023-12-17 14:00:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,6,Sunday
+C9CBDE6BE11FFA8C,classic_bike,"2023-12-20 18:46:00","2023-12-20 18:56:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,10,Wednesday
+1A9D38AFDD19391C,electric_bike,"2023-12-14 16:43:00","2023-12-14 16:46:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,3,Thursday
+97A8DB822BAA2578,classic_bike,"2023-12-31 21:31:00","2023-12-31 21:51:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,20,Sunday
+2D669CE7D987565E,classic_bike,"2023-12-13 19:55:00","2023-12-13 20:04:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,9,Wednesday
+93690C71D2D361B7,classic_bike,"2023-12-06 21:45:00","2023-12-06 21:54:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,9,Wednesday
+B31B8A526CEA0E46,classic_bike,"2023-12-06 11:22:00","2023-12-06 11:34:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,12,Wednesday
+77C88E09A4C84BDC,classic_bike,"2023-12-05 21:07:00","2023-12-05 21:16:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,9,Tuesday
+38281E49ECFABF60,classic_bike,"2023-12-04 15:10:00","2023-12-04 15:14:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,4,Monday
+5C92D60DBEEE72BA,classic_bike,"2023-12-17 19:37:00","2023-12-17 19:45:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Sunday
+B3D81A5BD5D95C53,electric_bike,"2023-12-12 15:31:00","2023-12-12 15:39:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,8,Tuesday
+EEB81ED92FC55350,electric_bike,"2023-12-21 15:53:00","2023-12-21 16:02:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,9,Thursday
+18BD51AC9A32186A,electric_bike,"2023-12-15 16:14:00","2023-12-15 16:24:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,10,Friday
+1921C18CE43F52A0,classic_bike,"2023-12-07 18:04:00","2023-12-07 18:23:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,19,Thursday
+F012EF9182118B89,classic_bike,"2023-12-06 20:19:00","2023-12-06 20:32:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,13,Wednesday
+14C3B54853E828E7,classic_bike,"2023-12-26 16:04:00","2023-12-26 16:07:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,3,Tuesday
+64758817631528A3,electric_bike,"2023-12-10 12:50:00","2023-12-10 12:54:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,4,Sunday
+2C667F299F543C54,electric_bike,"2023-12-10 13:28:00","2023-12-10 13:35:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,7,Sunday
+47E8B526C1564BDA,classic_bike,"2023-12-16 19:14:00","2023-12-16 19:24:00","Broadway & Granville Ave",15571,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,10,Saturday
+FD49661A0E853CCB,electric_bike,"2023-12-05 17:08:00","2023-12-05 17:16:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,8,Tuesday
+D69B02311E512843,classic_bike,"2023-12-03 17:14:00","2023-12-03 17:23:00","Broadway & Granville Ave",15571,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,9,Sunday
+724D7BD4CACCA88E,classic_bike,"2023-12-12 12:25:00","2023-12-12 12:30:00","Sangamon St & Washington Blvd",13409,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,5,Tuesday
+D478A7589BF8AF3B,classic_bike,"2023-12-08 21:57:00","2023-12-09 11:16:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,799,Friday
+758295AC2F6F6C26,classic_bike,"2023-12-04 21:49:00","2023-12-04 21:57:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,8,Monday
+0BEE8E6E3D6FA18B,classic_bike,"2023-12-06 17:34:00","2023-12-06 17:42:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,casual,8,Wednesday
+BAA0623214092F1E,classic_bike,"2023-12-12 16:29:00","2023-12-12 16:38:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,9,Tuesday
+5F174E96AC47C550,classic_bike,"2023-12-06 16:23:00","2023-12-06 16:31:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Wednesday
+7E5433EB0C07228D,classic_bike,"2023-12-14 16:34:00","2023-12-14 16:42:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,8,Thursday
+6447EDDB85E0FDC0,classic_bike,"2023-12-07 15:09:00","2023-12-07 15:18:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,9,Thursday
+71D4F5B0BE1132D0,electric_bike,"2023-12-11 15:14:00","2023-12-11 15:23:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,9,Monday
+E0B8C6E4C179CE7C,electric_bike,"2023-12-11 17:14:00","2023-12-11 17:24:00","St. Clair St & Erie St",13016,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,10,Monday
+B917768C9536AA14,electric_bike,"2023-12-14 17:24:00","2023-12-14 17:28:00","Clark St & Lunt Ave",KA1504000162,"Glenwood Ave & Touhy Ave",525,42,-88,42,-88,member,4,Thursday
+187930C381D154C2,electric_bike,"2023-12-23 21:33:00","2023-12-23 21:36:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,3,Saturday
+67611AFB434B02F2,electric_bike,"2023-12-24 11:56:00","2023-12-24 11:58:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,casual,2,Sunday
+078ECC2C93DDDAB7,electric_bike,"2023-12-03 16:56:00","2023-12-03 17:11:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,casual,15,Sunday
+2CBF680CB1B21DE9,classic_bike,"2023-12-13 16:31:00","2023-12-13 16:40:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,9,Wednesday
+7CC2540E1A4CC6F0,classic_bike,"2023-12-08 15:49:00","2023-12-08 15:58:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,9,Friday
+2B76FC14C4D8AD10,electric_bike,"2023-12-19 12:20:00","2023-12-19 12:30:00","University Ave & 57th St",KA1503000071,"Shore Dr & 55th St",TA1308000009,42,-88,42,-88,member,10,Tuesday
+07572508C551E3C8,classic_bike,"2023-12-11 11:50:00","2023-12-11 11:59:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,9,Monday
+D3E0BC88319BE469,electric_bike,"2023-12-08 14:00:00","2023-12-08 14:07:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,7,Friday
+DBFB92B45B4F7C17,classic_bike,"2023-12-05 17:22:00","2023-12-05 17:32:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,10,Tuesday
+E557660175929B0A,electric_bike,"2023-12-04 18:47:00","2023-12-04 18:56:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,9,Monday
+2ADD13C1C225CE1E,classic_bike,"2023-12-01 19:53:00","2023-12-01 20:03:00","University Ave & 57th St",KA1503000071,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,10,Friday
+6B475DC1147DACF0,classic_bike,"2023-12-09 09:21:00","2023-12-09 09:26:00","Southport Ave & Waveland Ave",13235,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,5,Saturday
+63001050740390DE,electric_bike,"2023-12-18 15:52:00","2023-12-18 16:24:00","Kimbark Ave & 53rd St",TA1309000037,"DuSable Lake Shore Dr & Monroe St",13300,42,-88,42,-88,member,32,Monday
+1AA681533420043D,classic_bike,"2023-12-10 17:03:00","2023-12-10 17:17:00","Halsted St & Willow St",TA1307000166,"Ashland Ave & Blackhawk St",13224,42,-88,42,-88,member,14,Sunday
+C7E76D875C34D528,classic_bike,"2023-12-08 10:44:00","2023-12-08 10:47:00","Clark St & Montrose Ave",KA1503000022,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,3,Friday
+4425917FB91E6D20,classic_bike,"2023-12-09 09:55:00","2023-12-09 09:58:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,3,Saturday
+7F4EF4DA5FEB2DA5,classic_bike,"2023-12-26 11:04:00","2023-12-26 11:09:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,5,Tuesday
+21727011D1C647C5,electric_bike,"2023-12-11 14:58:00","2023-12-11 15:09:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,11,Monday
+887EA562E42A78FB,classic_bike,"2023-12-06 08:32:00","2023-12-06 08:41:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,9,Wednesday
+6692F58967B7B778,electric_bike,"2023-12-24 11:21:00","2023-12-24 11:24:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,3,Sunday
+34C0FDEFD3CBAFA2,classic_bike,"2023-12-04 14:11:00","2023-12-04 14:14:00","Clark St & Montrose Ave",KA1503000022,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,3,Monday
+ACB110AAC6CA48CB,classic_bike,"2023-12-20 19:57:00","2023-12-20 20:36:00","Kimbark Ave & 53rd St",TA1309000037,"Cornell Ave & Hyde Park Blvd",KA1503000007,42,-88,42,-88,member,39,Wednesday
+D8A593A53004EB8C,electric_bike,"2023-12-28 18:19:00","2023-12-28 18:20:00","Clark St & Montrose Ave",KA1503000022,"Southport Ave & Clark St",TA1308000047,42,-88,42,-88,member,1,Thursday
+4B808D362FC41783,classic_bike,"2023-12-08 20:52:00","2023-12-08 21:12:00","Wabash Ave & Roosevelt Rd",TA1305000002,"900 W Harrison St",13028,42,-88,42,-88,member,20,Friday
+EB92764889A3144E,classic_bike,"2023-12-06 10:10:00","2023-12-06 10:21:00","Wabash Ave & Roosevelt Rd",TA1305000002,"900 W Harrison St",13028,42,-88,42,-88,member,11,Wednesday
+78272E98BE559922,classic_bike,"2023-12-20 07:34:00","2023-12-20 07:46:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,12,Wednesday
+2C94272323065F99,electric_bike,"2023-12-17 14:25:00","2023-12-17 14:31:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,6,Sunday
+DC6ADB43B9EA56CD,classic_bike,"2023-12-06 17:01:00","2023-12-06 17:31:00","LaSalle St & Jackson Blvd",TA1309000004,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,30,Wednesday
+3559D604595768E8,classic_bike,"2023-12-15 15:28:00","2023-12-15 15:28:00","LaSalle St & Jackson Blvd",TA1309000004,"LaSalle St & Adams St",KA1503000034,42,-88,42,-88,member,0,Friday
+DE6D864EA01FAE30,classic_bike,"2023-12-04 16:22:00","2023-12-04 16:35:00","LaSalle St & Jackson Blvd",TA1309000004,"State St & Pearson St",TA1307000061,42,-88,42,-88,member,13,Monday
+6D39D098BD52AF94,classic_bike,"2023-12-24 16:24:00","2023-12-24 16:34:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Theater on the Lake",TA1308000001,42,-88,42,-88,member,10,Sunday
+172A180834BF0738,classic_bike,"2023-12-02 14:45:00","2023-12-02 15:19:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Millennium Park",13008,42,-88,42,-88,member,34,Saturday
+B91F54AEFF591A5E,classic_bike,"2023-12-12 13:17:00","2023-12-12 13:23:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,6,Tuesday
+6D74870D802D2B20,electric_bike,"2023-12-18 09:15:00","2023-12-18 09:34:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Millennium Park",13008,42,-88,42,-88,member,19,Monday
+BF327460A2121C42,classic_bike,"2023-12-15 12:41:00","2023-12-15 12:48:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,7,Friday
+408FA90DECFEF7BF,classic_bike,"2023-12-18 15:25:00","2023-12-18 15:34:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Millennium Park",13008,42,-88,42,-88,member,9,Monday
+EDA94D539804EC24,classic_bike,"2023-12-03 13:54:00","2023-12-03 14:03:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Sunday
+41A3B103E8CDC9D4,classic_bike,"2023-12-13 08:03:00","2023-12-13 08:13:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,10,Wednesday
+F9A075AAB7E02875,classic_bike,"2023-12-19 08:30:00","2023-12-19 08:41:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,11,Tuesday
+AD16BFDE51ECE713,classic_bike,"2023-12-01 16:24:00","2023-12-01 16:29:00","Green St & Washington Blvd",13053,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Friday
+04F1B290A8678514,classic_bike,"2023-12-10 13:45:00","2023-12-10 13:54:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Sunday
+F90E989A5452B43D,classic_bike,"2023-12-15 07:59:00","2023-12-15 08:07:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,8,Friday
+9E3321BC557A5BD1,classic_bike,"2023-12-07 22:41:00","2023-12-07 22:50:00","Green St & Washington Blvd",13053,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,9,Thursday
+D990E4A3D8F95D78,classic_bike,"2023-12-30 17:30:00","2023-12-30 17:42:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dusable Harbor",KA1503000064,42,-88,42,-88,member,12,Saturday
+0A5C70C8427BAE27,electric_bike,"2023-12-15 15:14:00","2023-12-15 15:29:00","Green St & Washington Blvd",13053,"Fairbanks St & Superior St",18003,42,-88,42,-88,member,15,Friday
+6573DF6F101EAFD4,classic_bike,"2023-12-08 16:49:00","2023-12-08 16:57:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,8,Friday
+212A22DD29C92F35,classic_bike,"2023-12-26 16:49:00","2023-12-26 16:59:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,10,Tuesday
+E8D198F00D88A9BC,classic_bike,"2023-12-18 16:51:00","2023-12-18 17:00:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Monday
+8A66553E5D3ACD5D,electric_bike,"2023-12-13 16:42:00","2023-12-13 16:52:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,10,Wednesday
+5ADC9D81116E0CD2,classic_bike,"2023-12-01 15:37:00","2023-12-01 15:46:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,9,Friday
+9E206FAB8E7F6E58,electric_bike,"2023-12-12 16:46:00","2023-12-12 16:57:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,11,Tuesday
+85A1A7D2EA25A452,classic_bike,"2023-12-11 16:52:00","2023-12-11 17:02:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,10,Monday
+081A8862DF17EF2D,classic_bike,"2023-12-04 17:09:00","2023-12-04 17:18:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,9,Monday
+F8420ADD08DC1B83,electric_bike,"2023-12-18 11:17:00","2023-12-18 11:25:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,8,Monday
+A029EE06D2F49471,classic_bike,"2023-12-05 17:20:00","2023-12-05 17:32:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,12,Tuesday
+8DFD9F1A0C7581AE,electric_bike,"2023-12-15 16:53:00","2023-12-15 17:01:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,8,Friday
+6F28FA3DA1F9584B,electric_bike,"2023-12-31 15:24:00","2023-12-31 15:39:00","Green St & Washington Blvd",13053,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,15,Sunday
+E8EF03178C0CAF28,classic_bike,"2023-12-30 08:47:00","2023-12-30 09:07:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Dearborn St & Erie St",13045,42,-88,42,-88,member,20,Saturday
+128AEED93103F76B,classic_bike,"2023-12-14 17:00:00","2023-12-14 17:15:00","Green St & Washington Blvd",13053,"Dearborn St & Erie St",13045,42,-88,42,-88,member,15,Thursday
+3B2125E54CC723E0,classic_bike,"2023-12-13 16:36:00","2023-12-13 16:44:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,8,Wednesday
+3F3A7E1D96E8B275,classic_bike,"2023-12-21 17:08:00","2023-12-21 17:17:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Thursday
+DACA4B925183A9EE,classic_bike,"2023-12-14 16:53:00","2023-12-14 17:02:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Thursday
+9FB1D0BED1D66BA4,classic_bike,"2023-12-05 12:14:00","2023-12-05 12:21:00","Morgan St & 31st St",TA1308000046,"Wallace St & 35th St",TA1308000045,42,-88,42,-88,member,7,Tuesday
+F816B62F2C6DF806,classic_bike,"2023-12-05 16:36:00","2023-12-05 16:45:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Tuesday
+012329B289C94FFE,electric_bike,"2023-12-31 15:24:00","2023-12-31 15:39:00","Green St & Washington Blvd",13053,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,15,Sunday
+FA7265FD5BB74230,classic_bike,"2023-12-03 16:36:00","2023-12-03 16:41:00","Morgan St & 31st St",TA1308000046,"Racine Ave & 35th St",15446,42,-88,42,-88,member,5,Sunday
+906CAF6B46353D0F,classic_bike,"2023-12-04 18:05:00","2023-12-04 18:29:00","Clark St & Berwyn Ave",KA1504000146,"California Ave & Altgeld St",15646,42,-88,42,-88,member,24,Monday
+C4D8E436BD68FFD2,classic_bike,"2023-12-25 14:20:00","2023-12-25 14:48:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Dusable Harbor",KA1503000064,42,-88,42,-88,member,28,Monday
+EC7E8EAB4BBD0847,electric_bike,"2023-12-13 19:31:00","2023-12-13 19:44:00","Sedgwick St & North Ave",TA1307000038,"Morgan St & Lake St*",chargingstx4,42,-88,42,-88,member,13,Wednesday
+358EF76586A7A66B,electric_bike,"2023-12-11 02:20:00","2023-12-11 02:27:00","Spaulding Ave & Armitage Ave",15650,"Milwaukee Ave & Wabansia Ave",13243,42,-88,42,-88,member,7,Monday
+B92C746763484533,classic_bike,"2023-12-07 21:17:00","2023-12-07 21:29:00","Clifton Ave & Armitage Ave",TA1307000163,"Milwaukee Ave & Wabansia Ave",13243,42,-88,42,-88,member,12,Thursday
+807DCB40316C4860,electric_bike,"2023-12-11 18:23:00","2023-12-11 18:39:00","Clark St & Berwyn Ave",KA1504000146,"Albany Ave & Montrose Ave",15621,42,-88,42,-88,member,16,Monday
+6EDF9C35ACAD6CD7,electric_bike,"2023-12-19 08:14:00","2023-12-19 08:30:00","Cannon Dr & Fullerton Ave",13124,"Franklin St & Adams St (Temp)",TA1309000008,42,-88,42,-88,member,16,Tuesday
+1175A8966BA4D641,electric_bike,"2023-12-12 16:01:00","2023-12-12 16:14:00","LaSalle St & Jackson Blvd",TA1309000004,"Streeter Dr & Grand Ave",13022,42,-88,42,-88,member,13,Tuesday
+40005AA15133886D,electric_bike,"2023-12-04 15:41:00","2023-12-04 15:52:00","LaSalle St & Jackson Blvd",TA1309000004,"Streeter Dr & Grand Ave",13022,42,-88,42,-88,member,11,Monday
+EF3574604388E789,electric_bike,"2023-12-21 15:19:00","2023-12-21 15:32:00","LaSalle St & Jackson Blvd",TA1309000004,"Streeter Dr & Grand Ave",13022,42,-88,42,-88,member,13,Thursday
+DC3CE9E832DE9AF5,electric_bike,"2023-12-13 16:14:00","2023-12-13 16:25:00","LaSalle St & Jackson Blvd",TA1309000004,"Streeter Dr & Grand Ave",13022,42,-88,42,-88,member,11,Wednesday
+6447693D462591D8,classic_bike,"2023-12-27 11:34:00","2023-12-27 12:08:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Streeter Dr & Grand Ave",13022,42,-88,42,-88,casual,34,Wednesday
+2B9A5F54FDD0737E,electric_bike,"2023-12-02 17:06:00","2023-12-02 17:28:00","Morgan St & 31st St",TA1308000046,"Halsted St & Clybourn Ave",331,42,-88,42,-88,member,22,Saturday
+041F0F32C8278287,classic_bike,"2023-12-03 09:52:00","2023-12-03 09:56:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Sunday
+757DA2BF7D4007A1,classic_bike,"2023-12-24 09:24:00","2023-12-24 09:28:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Sunday
+5EE3926440ACA0D8,classic_bike,"2023-12-08 09:57:00","2023-12-08 10:01:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Friday
+A5CF11061C7D9131,classic_bike,"2023-12-19 09:48:00","2023-12-19 09:52:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Tuesday
+53E18512D5D854CC,classic_bike,"2023-12-30 09:07:00","2023-12-30 09:11:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Saturday
+FDE91C9DD9F5B662,classic_bike,"2023-12-10 09:36:00","2023-12-10 09:41:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,5,Sunday
+47493C0089BEE9B4,classic_bike,"2023-12-14 09:59:00","2023-12-14 10:04:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,5,Thursday
+1664F18590FE44B2,classic_bike,"2023-12-09 09:37:00","2023-12-09 09:42:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,5,Saturday
+BF5F984CC971EB65,classic_bike,"2023-12-05 09:54:00","2023-12-05 09:58:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Tuesday
+3B39738960FD3EDE,classic_bike,"2023-12-15 09:52:00","2023-12-15 09:56:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Friday
+4367AEC51B560FFA,classic_bike,"2023-12-15 09:48:00","2023-12-15 10:02:00","Lincoln Park Conservatory",LP-,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,14,Friday
+4ED5AB098C6B5B58,classic_bike,"2023-12-07 21:06:00","2023-12-07 21:19:00","Halsted St & Willow St",TA1307000166,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,13,Thursday
+9E0E646D0BE1A976,classic_bike,"2023-12-06 16:08:00","2023-12-06 16:19:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,11,Wednesday
+9EC220D001DBD36C,classic_bike,"2023-12-11 16:27:00","2023-12-11 16:37:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Monday
+7EDE8D91157A5366,classic_bike,"2023-12-13 16:19:00","2023-12-13 16:29:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Wednesday
+57DC52D5CA0CC9AD,electric_bike,"2023-12-10 16:38:00","2023-12-10 16:48:00","State St & Chicago Ave",21544,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Sunday
+4920F3EA8EB17944,classic_bike,"2023-12-15 17:49:00","2023-12-15 18:03:00","Halsted St & Willow St",TA1307000166,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,14,Friday
+0067032E88E90E3B,classic_bike,"2023-12-27 15:51:00","2023-12-27 16:03:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,12,Wednesday
+AFB1BA150250193D,classic_bike,"2023-12-04 16:17:00","2023-12-04 16:27:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,10,Monday
+D77E2BFE1B77EA9D,classic_bike,"2023-12-18 16:13:00","2023-12-18 16:24:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,11,Monday
+FCC93E5589C0BD1F,classic_bike,"2023-12-20 16:15:00","2023-12-20 16:26:00","Wood St & Hubbard St",13432,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,member,11,Wednesday
+919B97E4AB0BB685,classic_bike,"2023-12-09 12:52:00","2023-12-09 12:56:00","State St & Chicago Ave",21544,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,4,Saturday
+1F14E888E10E4172,classic_bike,"2023-12-17 14:14:00","2023-12-17 14:35:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Orleans St & Chestnut St (NEXT Apts)",620,42,-88,42,-88,member,21,Sunday
+652109DE41A6E141,classic_bike,"2023-12-21 19:47:00","2023-12-21 19:55:00","Ashland Ave & Grand Ave",13434,"Desplaines St & Kinzie St",TA1306000003,42,-88,42,-88,casual,8,Thursday
+8116814DEBA1E2D2,classic_bike,"2023-12-02 14:27:00","2023-12-02 14:28:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Wilton Ave & Diversey Pkwy*",chargingstx2,42,-88,42,-88,member,1,Saturday
+7E6235C362BF42CF,classic_bike,"2023-12-02 14:26:00","2023-12-02 14:26:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Wilton Ave & Diversey Pkwy*",chargingstx2,42,-88,42,-88,member,0,Saturday
+C3CD2662179ADBF2,classic_bike,"2023-12-02 14:28:00","2023-12-02 14:29:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Wilton Ave & Diversey Pkwy*",chargingstx2,42,-88,42,-88,member,1,Saturday
+90CDD82134A08346,classic_bike,"2023-12-26 12:43:00","2023-12-26 13:15:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Halsted St & Fulton St",23003,42,-88,42,-88,member,32,Tuesday
+6802257101E5B97A,classic_bike,"2023-12-31 17:56:00","2023-12-31 18:14:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Halsted St & Fulton St",23003,42,-88,42,-88,member,18,Sunday
+FF4772B9E22FE156,classic_bike,"2023-12-07 18:45:00","2023-12-07 18:56:00","Ashland Ave & Grand Ave",13434,"Halsted St & Fulton St",23003,42,-88,42,-88,member,11,Thursday
+0946195C81FDC2A4,classic_bike,"2023-12-01 20:41:00","2023-12-01 20:56:00","LaSalle St & Jackson Blvd",TA1309000004,"Halsted St & Fulton St",23003,42,-88,42,-88,member,15,Friday
+1821A191D3D580DA,electric_bike,"2023-12-07 08:11:00","2023-12-07 08:24:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Paulina Ave & North Ave",TA1305000037,42,-88,42,-88,member,13,Thursday
+C8AC8C572DE555D3,electric_bike,"2023-12-08 20:52:00","2023-12-08 20:59:00","Ashland Ave & Grand Ave",13434,"Paulina Ave & North Ave",TA1305000037,42,-88,42,-88,member,7,Friday
+177555FE5F9B0A64,classic_bike,"2023-12-06 11:25:00","2023-12-06 11:45:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Halsted St & Fulton St",23003,42,-88,42,-88,member,20,Wednesday
+5E4FF44D35FD610A,electric_bike,"2023-12-05 17:28:00","2023-12-05 17:36:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Halsted St & Polk St",TA1307000121,42,-88,42,-88,member,8,Tuesday
+CC5B2248327E7223,classic_bike,"2023-12-14 15:29:00","2023-12-14 15:45:00","LaSalle St & Jackson Blvd",TA1309000004,"Halsted St & Polk St",TA1307000121,42,-88,42,-88,member,16,Thursday
+0645892DCF985E4D,classic_bike,"2023-12-04 17:23:00","2023-12-04 17:26:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Lake St",13021,42,-88,42,-88,member,3,Monday
+02E316404617DD3F,classic_bike,"2023-12-08 15:54:00","2023-12-08 15:57:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Lake St",13021,42,-88,42,-88,member,3,Friday
+27D0A43BE06E548A,electric_bike,"2023-12-07 10:41:00","2023-12-07 10:47:00","Sedgwick St & North Ave",TA1307000038,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Thursday
+7FA768DD952263E3,classic_bike,"2023-12-13 21:59:00","2023-12-13 22:13:00","Sedgwick St & North Ave",TA1307000038,"Ashland Ave & Division St",13061,42,-88,42,-88,member,14,Wednesday
+47DF134A33FC8DCD,electric_bike,"2023-12-23 13:07:00","2023-12-23 13:11:00","Ashland Ave & Chicago Ave",13247,"Ashland Ave & Division St",13061,42,-88,42,-88,member,4,Saturday
+C74BD12C7450C307,classic_bike,"2023-12-20 17:16:00","2023-12-20 17:21:00","Ashland Ave & Chicago Ave",13247,"Ashland Ave & Division St",13061,42,-88,42,-88,member,5,Wednesday
+1DE93730A6C81D5F,classic_bike,"2023-12-06 23:20:00","2023-12-06 23:36:00","Sedgwick St & North Ave",TA1307000038,"Ashland Ave & Division St",13061,42,-88,42,-88,member,16,Wednesday
+7CD46BE1E2AA6F07,classic_bike,"2023-12-21 11:20:00","2023-12-21 11:30:00","Clifton Ave & Armitage Ave",TA1307000163,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,10,Thursday
+CD6FE3174323D8E9,classic_bike,"2023-12-07 12:37:00","2023-12-07 12:41:00","Ashland Ave & Chicago Ave",13247,"Ashland Ave & Division St",13061,42,-88,42,-88,member,4,Thursday
+2D699D66DE0879D0,classic_bike,"2023-12-19 13:47:00","2023-12-19 14:10:00","Broadway & Belmont Ave",13277,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,23,Tuesday
+E5977310DC45D8B8,classic_bike,"2023-12-17 18:30:00","2023-12-17 18:42:00","Sedgwick St & North Ave",TA1307000038,"Ashland Ave & Division St",13061,42,-88,42,-88,member,12,Sunday
+45884859F8D279F7,electric_bike,"2023-12-13 18:37:00","2023-12-13 18:50:00","Broadway & Belmont Ave",13277,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,13,Wednesday
+3154CA0AA1E28F1C,classic_bike,"2023-12-28 13:01:00","2023-12-28 13:12:00","Clifton Ave & Armitage Ave",TA1307000163,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,11,Thursday
+4D918AF72E80844B,classic_bike,"2023-12-02 19:53:00","2023-12-02 20:05:00","Southport Ave & Waveland Ave",13235,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,12,Saturday
+79F446B1252E3ECD,classic_bike,"2023-12-24 12:56:00","2023-12-24 13:20:00","California Ave & North Ave",13258,"Ashland Ave & Division St",13061,42,-88,42,-88,member,24,Sunday
+E03E3E26809643B4,electric_bike,"2023-12-22 07:13:00","2023-12-22 07:19:00","N Sheffield Ave & W Wellington Ave",20256,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Friday
+502E1734638C2CD5,classic_bike,"2023-12-10 13:54:00","2023-12-10 14:09:00","St. Clair St & Erie St",13016,"Clinton St & Lake St",13021,42,-88,42,-88,member,15,Sunday
+68C237B6E1CEA4AB,electric_bike,"2023-12-14 14:50:00","2023-12-14 15:09:00","Halsted St & 35th St",TA1308000043,"Calumet Ave & 21st St",15546,42,-88,42,-88,member,19,Thursday
+E8C14C68772BA402,electric_bike,"2023-12-08 15:15:00","2023-12-08 15:28:00","St. Clair St & Erie St",13016,"Clinton St & Lake St",13021,42,-88,42,-88,casual,13,Friday
+F6D1FFB5128D46AF,classic_bike,"2023-12-17 10:57:00","2023-12-17 11:13:00","California Ave & North Ave",13258,"Ashland Ave & Division St",13061,42,-88,42,-88,casual,16,Sunday
+5E65F8BDAF24DE9D,classic_bike,"2023-12-07 16:18:00","2023-12-07 16:29:00","Southport Ave & Waveland Ave",13235,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,11,Thursday
+2AE7687E047DE407,classic_bike,"2023-12-12 17:08:00","2023-12-12 17:12:00","Wacker Dr & Washington St",KA1503000072,"Clinton St & Lake St",13021,42,-88,42,-88,member,4,Tuesday
+16E8CEA246218DEC,classic_bike,"2023-12-19 08:47:00","2023-12-19 09:00:00","Broadway & Granville Ave",15571,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,13,Tuesday
+11B4DE259E170C7B,classic_bike,"2023-12-11 17:07:00","2023-12-11 17:32:00","Broadway & Granville Ave",15571,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,25,Monday
+CD021192F2A59CB3,classic_bike,"2023-12-27 18:29:00","2023-12-27 18:43:00","Wacker Dr & Washington St",KA1503000072,"Ashland Ave & Division St",13061,42,-88,42,-88,casual,14,Wednesday
+1FFFEFA0073134D8,classic_bike,"2023-12-21 16:22:00","2023-12-21 16:32:00","Southport Ave & Waveland Ave",13235,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,10,Thursday
+4C6E48163868D9CD,electric_bike,"2023-12-21 15:50:00","2023-12-21 15:58:00","St. Clair St & Erie St",13016,"Clinton St & Lake St",13021,42,-88,42,-88,casual,8,Thursday
+A10D1DD262D4D043,classic_bike,"2023-12-07 12:28:00","2023-12-07 12:44:00","St. Clair St & Erie St",13016,"Clinton St & Lake St",13021,42,-88,42,-88,casual,16,Thursday
+1254DE548B382E1B,electric_bike,"2023-12-04 17:47:00","2023-12-04 18:02:00","Broadway & Granville Ave",15571,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,15,Monday
+D415CEFA585F4A2E,classic_bike,"2023-12-14 16:26:00","2023-12-14 16:37:00","Southport Ave & Waveland Ave",13235,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,11,Thursday
+C0CC5052EABEEB34,classic_bike,"2023-12-15 20:11:00","2023-12-15 20:30:00","Wacker Dr & Washington St",KA1503000072,"Ashland Ave & Division St",13061,42,-88,42,-88,member,19,Friday
+8AFCF31BFF3BD4C0,electric_bike,"2023-12-05 19:45:00","2023-12-05 20:00:00","Wacker Dr & Washington St",KA1503000072,"Ashland Ave & Division St",13061,42,-88,42,-88,member,15,Tuesday
+BAF9FE7DEDFBAC50,electric_bike,"2023-12-20 10:57:00","2023-12-20 11:05:00","St. Clair St & Erie St",13016,"Clinton St & Lake St",13021,42,-88,42,-88,casual,8,Wednesday
+EBCE3F1EE19AAB10,classic_bike,"2023-12-07 19:39:00","2023-12-07 19:57:00","Wacker Dr & Washington St",KA1503000072,"Ashland Ave & Division St",13061,42,-88,42,-88,member,18,Thursday
+B970E57A46941E98,electric_bike,"2023-12-26 16:45:00","2023-12-26 16:54:00","Wacker Dr & Washington St",KA1503000072,"Ashland Ave & Division St",13061,42,-88,42,-88,member,9,Tuesday
+E6077A32C0A43FDC,classic_bike,"2023-12-09 12:06:00","2023-12-09 12:21:00","Southport Ave & Waveland Ave",13235,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,15,Saturday
+647CE11007F5F7F5,classic_bike,"2023-12-13 14:23:00","2023-12-13 14:27:00","Morgan St & 18th St",13163,"Blue Island Ave & 18th St",13135,42,-88,42,-88,member,4,Wednesday
+061C2698F8A5688D,classic_bike,"2023-12-07 17:42:00","2023-12-07 18:20:00","Dearborn St & Monroe St",TA1305000006,"Hermitage Ave & Polk St",13080,42,-88,42,-88,member,38,Thursday
+D04EC9810034E572,electric_bike,"2023-12-20 13:39:00","2023-12-20 13:47:00","Michigan Ave & Washington St",13001,"Clinton St & Lake St",13021,42,-88,42,-88,member,8,Wednesday
+0B71AD600E6C395A,classic_bike,"2023-12-14 18:14:00","2023-12-14 18:26:00","Canal St & Taylor St",15550,"Calumet Ave & 21st St",15546,42,-88,42,-88,member,12,Thursday
+A86EEFEC83EE0249,classic_bike,"2023-12-13 11:55:00","2023-12-13 12:05:00","Throop St & Taylor St",13139,"May St & Taylor St",13160,42,-88,42,-88,member,10,Wednesday
+044648DC9544502A,classic_bike,"2023-12-21 12:05:00","2023-12-21 12:16:00","Throop St & Taylor St",13139,"Ogden Ave & Roosevelt Rd",KA1504000101,42,-88,42,-88,member,11,Thursday
+9D952AD0327F2736,electric_bike,"2023-12-03 01:57:00","2023-12-03 02:03:00","Morgan St & 18th St",13163,"Blue Island Ave & 18th St",13135,42,-88,42,-88,member,6,Sunday
+5F8E548A2B000048,classic_bike,"2023-12-06 08:32:00","2023-12-06 08:35:00","Wood St & Milwaukee Ave",13221,"Ashland Ave & Division St",13061,42,-88,42,-88,member,3,Wednesday
+76F856EF1A56520A,electric_bike,"2023-12-23 14:53:00","2023-12-23 15:03:00","Canal St & Taylor St",15550,"May St & Taylor St",13160,42,-88,42,-88,member,10,Saturday
+B6B4B847CCD28EE6,classic_bike,"2023-12-18 09:56:00","2023-12-18 10:06:00","Michigan Ave & Washington St",13001,"Clinton St & Lake St",13021,42,-88,42,-88,member,10,Monday
+DF3517282163F719,electric_bike,"2023-12-08 11:46:00","2023-12-08 12:00:00","Wood St & Milwaukee Ave",13221,"Clinton St & Lake St",13021,42,-88,42,-88,member,14,Friday
+C8130C50FDAC0459,classic_bike,"2023-12-15 14:45:00","2023-12-15 14:56:00","Lakefront Trail & Bryn Mawr Ave",15576,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,11,Friday
+72934F969C944D4A,electric_bike,"2023-12-11 17:25:00","2023-12-11 17:29:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,4,Monday
+C43307EA965BDC65,electric_bike,"2023-12-07 16:05:00","2023-12-07 16:11:00","Throop St & Taylor St",13139,"Blue Island Ave & 18th St",13135,42,-88,42,-88,casual,6,Thursday
+6F600D7FADBDA33F,classic_bike,"2023-12-01 09:44:00","2023-12-01 09:49:00","Larrabee St & Armitage Ave",TA1309000006,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,casual,5,Friday
+59FFDCCC355F607A,classic_bike,"2023-12-25 06:36:00","2023-12-25 06:42:00","Western Ave & 21st St",13091,"Ogden Ave & Roosevelt Rd",KA1504000101,42,-88,42,-88,casual,6,Monday
+3D212B8D988A8800,electric_bike,"2023-12-18 10:15:00","2023-12-18 10:18:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,3,Monday
+4F9D102DF31C9DDB,electric_bike,"2023-12-03 21:17:00","2023-12-03 21:20:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Sunday
+962288447FEA8F16,electric_bike,"2023-12-31 10:24:00","2023-12-31 10:28:00","Morgan St & 18th St",13163,"May St & Taylor St",13160,42,-88,42,-88,member,4,Sunday
+49743A4FD2E84140,electric_bike,"2023-12-08 15:29:00","2023-12-08 15:33:00","Morgan St & 18th St",13163,"May St & Taylor St",13160,42,-88,42,-88,member,4,Friday
+DF1A85A9EDB231F0,classic_bike,"2023-12-17 14:52:00","2023-12-17 15:13:00","Michigan Ave & Washington St",13001,"May St & Taylor St",13160,42,-88,42,-88,member,21,Sunday
+6CBC86E33E89C0AC,classic_bike,"2023-12-06 17:45:00","2023-12-06 17:52:00","Michigan Ave & Washington St",13001,"Clinton St & Lake St",13021,42,-88,42,-88,member,7,Wednesday
+AC519C9A8D21E424,classic_bike,"2023-12-27 10:53:00","2023-12-27 11:06:00","Dearborn St & Monroe St",TA1305000006,"Clinton St & Lake St",13021,42,-88,42,-88,member,13,Wednesday
+4FAD7CF804564855,classic_bike,"2023-12-05 20:01:00","2023-12-05 20:04:00","Morgan St & 18th St",13163,"Blue Island Ave & 18th St",13135,42,-88,42,-88,member,3,Tuesday
+EBEF694FEA7F4E2C,classic_bike,"2023-12-08 15:21:00","2023-12-08 15:29:00","Claremont Ave & Hirsch St",13245,"Ashland Ave & Division St",13061,42,-88,42,-88,member,8,Friday
+B7F9BEB255ED1558,classic_bike,"2023-12-05 11:14:00","2023-12-05 11:19:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,5,Tuesday
+6AAC0C0E88E2A58B,electric_bike,"2023-12-02 15:29:00","2023-12-02 15:36:00","Canal St & Taylor St",15550,"Clinton St & Lake St",13021,42,-88,42,-88,casual,7,Saturday
+569D9CC44B42F049,electric_bike,"2023-12-01 22:57:00","2023-12-01 23:00:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,3,Friday
+C12AC9A9267782CD,electric_bike,"2023-12-03 12:40:00","2023-12-03 12:43:00","Morgan St & 18th St",13163,"Blue Island Ave & 18th St",13135,42,-88,42,-88,casual,3,Sunday
+DEE6ED2C28533EE1,electric_bike,"2023-12-14 16:12:00","2023-12-14 16:32:00","Wood St & Milwaukee Ave",13221,"Blue Island Ave & 18th St",13135,42,-88,42,-88,member,20,Thursday
+33F818A605B6EBE4,classic_bike,"2023-12-01 21:44:00","2023-12-01 21:47:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Friday
+031F9A12F376970D,classic_bike,"2023-12-04 18:09:00","2023-12-04 18:13:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,4,Monday
+F363CE1B2958AE03,classic_bike,"2023-12-15 21:26:00","2023-12-15 21:29:00","Broadway & Argyle St",13108,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Friday
+DF9B817C26A7E2C3,classic_bike,"2023-12-08 21:37:00","2023-12-08 22:14:00","Broadway & Argyle St",13108,"Ashland Ave & Division St",13061,42,-88,42,-88,member,37,Friday
+8EAF0C446CD18A40,classic_bike,"2023-12-23 20:08:00","2023-12-23 20:15:00","Throop St & Taylor St",13139,"May St & Taylor St",13160,42,-88,42,-88,member,7,Saturday
+2D31F8E7C098F699,classic_bike,"2023-12-15 17:02:00","2023-12-15 17:24:00","Dearborn St & Monroe St",TA1305000006,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,22,Friday
+EF1CF36FDBBD542B,classic_bike,"2023-12-08 19:24:00","2023-12-08 19:49:00","Lakefront Trail & Bryn Mawr Ave",15576,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,25,Friday
+5CD025F88B50A738,electric_bike,"2023-12-02 00:39:00","2023-12-02 01:00:00","Wood St & Milwaukee Ave",13221,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,21,Saturday
+2E6ADB75FE0859AF,electric_bike,"2023-12-04 16:33:00","2023-12-04 16:37:00","Wood St & Milwaukee Ave",13221,"Ashland Ave & Division St",13061,42,-88,42,-88,member,4,Monday
+B2D2A14326BA4909,electric_bike,"2023-12-05 18:00:00","2023-12-05 18:05:00","Canal St & Taylor St",15550,"May St & Taylor St",13160,42,-88,42,-88,member,5,Tuesday
+788879B91360CCC9,electric_bike,"2023-12-10 15:13:00","2023-12-10 15:18:00","Sheridan Rd & Argyle St",13059,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,5,Sunday
+55440CB5BFC805E2,classic_bike,"2023-12-17 14:45:00","2023-12-17 14:50:00","Sheridan Rd & Argyle St",13059,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,5,Sunday
+2A1CC773588ED099,classic_bike,"2023-12-20 13:29:00","2023-12-20 13:33:00","Sheridan Rd & Argyle St",13059,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,4,Wednesday
+1BB9B4185EA58B09,electric_bike,"2023-12-23 00:15:00","2023-12-23 00:24:00","Clark St & Newport St",632,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,casual,9,Saturday
+F4CFD2A8856BC107,classic_bike,"2023-12-23 00:18:00","2023-12-23 00:24:00","Clark St & Newport St",632,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,casual,6,Saturday
+A73217C971AA2714,electric_bike,"2023-12-13 23:52:00","2023-12-14 00:00:00","Clark St & Newport St",632,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,casual,8,Wednesday
+4B0081CF8CD5AC02,classic_bike,"2023-12-26 17:38:00","2023-12-26 17:45:00","Sheridan Rd & Argyle St",13059,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,7,Tuesday
+158389A5D14FA64E,electric_bike,"2023-12-09 12:12:00","2023-12-09 12:16:00","Clark St & Montrose Ave",KA1503000022,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,4,Saturday
+AB5FF15A0F960392,electric_bike,"2023-12-09 12:47:00","2023-12-09 12:50:00","Clark St & Montrose Ave",KA1503000022,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Saturday
+3F4C80A6D0B06A8D,electric_bike,"2023-12-13 11:56:00","2023-12-13 12:04:00","State St & Chicago Ave",21544,"Clinton St & Lake St",13021,42,-88,42,-88,member,8,Wednesday
+D24AFEC29CF6A903,classic_bike,"2023-12-22 13:31:00","2023-12-22 13:52:00","Clark St & Montrose Ave",KA1503000022,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,21,Friday
+3969C424D20E66DA,classic_bike,"2023-12-13 21:47:00","2023-12-13 21:53:00","Halsted St & Willow St",TA1307000166,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Wednesday
+EB6DD9A1DAD8CCD6,classic_bike,"2023-12-11 18:53:00","2023-12-11 18:58:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,5,Monday
+A43FEE47ABEB7403,classic_bike,"2023-12-07 08:12:00","2023-12-07 08:17:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,5,Thursday
+AC3D2CE0D1A64660,classic_bike,"2023-12-02 17:37:00","2023-12-02 17:42:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,5,Saturday
+9E89933989DF9444,classic_bike,"2023-12-19 18:23:00","2023-12-19 18:29:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,6,Tuesday
+055AA4AF432ED6C2,electric_bike,"2023-12-12 06:11:00","2023-12-12 06:20:00","Morgan St & 31st St",TA1308000046,"Calumet Ave & 21st St",15546,42,-88,42,-88,member,9,Tuesday
+5CEBF681F846935F,electric_bike,"2023-12-29 20:30:00","2023-12-29 20:33:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,3,Friday
+C48D54B939CEE96E,electric_bike,"2023-12-15 16:24:00","2023-12-15 16:30:00","Green St & Washington Blvd",13053,"May St & Taylor St",13160,42,-88,42,-88,casual,6,Friday
+D8CB600E3BF6ECD8,electric_bike,"2023-12-31 00:13:00","2023-12-31 00:16:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,3,Sunday
+E5F0F139D1227C5A,electric_bike,"2023-12-15 16:37:00","2023-12-15 16:40:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Friday
+A644E3DCB90063BA,classic_bike,"2023-12-02 16:16:00","2023-12-02 16:33:00","Wabash Ave & Roosevelt Rd",TA1305000002,"May St & Taylor St",13160,42,-88,42,-88,casual,17,Saturday
+D44E1DBEDA97C9B5,classic_bike,"2023-12-09 17:12:00","2023-12-09 17:34:00","Western Ave & Lunt Ave",RP-005,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,casual,22,Saturday
+54B038E7F227FFA3,electric_bike,"2023-12-07 23:00:00","2023-12-07 23:07:00","Wabash Ave & Roosevelt Rd",TA1305000002,"May St & Taylor St",13160,42,-88,42,-88,member,7,Thursday
+E250AE1C532BADB1,classic_bike,"2023-12-08 05:59:00","2023-12-08 06:20:00","Morgan St & 31st St",TA1308000046,"Hermitage Ave & Polk St",13080,42,-88,42,-88,member,21,Friday
+B32C589286A2564C,electric_bike,"2023-12-19 18:19:00","2023-12-19 18:32:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Clark St & Wrightwood Ave",TA1305000014,42,-88,42,-88,member,13,Tuesday
+62F0AF4701A57F40,classic_bike,"2023-12-15 05:47:00","2023-12-15 06:09:00","Morgan St & 31st St",TA1308000046,"Hermitage Ave & Polk St",13080,42,-88,42,-88,member,22,Friday
+92369AE3B7A2A4B1,classic_bike,"2023-12-08 11:16:00","2023-12-08 11:19:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,3,Friday
+95E050398DD96C8B,classic_bike,"2023-12-13 19:01:00","2023-12-13 19:27:00","Clark St & Berwyn Ave",KA1504000146,"Clark St & Winnemac Ave",TA1309000035,42,-88,42,-88,member,26,Wednesday
+7829F0D54EE68D46,electric_bike,"2023-12-19 09:33:00","2023-12-19 09:41:00","Ashland Ave & Grand Ave",13434,"Clinton St & Lake St",13021,42,-88,42,-88,member,8,Tuesday
+E99683FE09D2E68E,electric_bike,"2023-12-06 09:24:00","2023-12-06 09:32:00","Ashland Ave & Grand Ave",13434,"Clinton St & Lake St",13021,42,-88,42,-88,member,8,Wednesday
+7FD8587F915954E8,electric_bike,"2023-12-20 08:59:00","2023-12-20 09:06:00","Ashland Ave & Grand Ave",13434,"Clinton St & Lake St",13021,42,-88,42,-88,member,7,Wednesday
+0A7D20DF1A532E20,electric_bike,"2023-12-13 08:59:00","2023-12-13 09:08:00","Ashland Ave & Grand Ave",13434,"Clinton St & Lake St",13021,42,-88,42,-88,member,9,Wednesday
+73D48355343F71E4,electric_bike,"2023-12-05 19:23:00","2023-12-05 19:34:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Ashland Ave & Division St",13061,42,-88,42,-88,member,11,Tuesday
+A82E36A47787AA9F,electric_bike,"2023-12-30 12:46:00","2023-12-30 12:57:00","Green St & Washington Blvd",13053,"Ashland Ave & Division St",13061,42,-88,42,-88,member,11,Saturday
+F77EB8647843FFC9,classic_bike,"2023-12-19 19:08:00","2023-12-19 19:15:00","State St & Chicago Ave",21544,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,7,Tuesday
+0094E6E8B96EB0A0,classic_bike,"2023-12-02 16:27:00","2023-12-02 16:35:00","State St & Chicago Ave",21544,"Stetson Ave & South Water St",TA1308000029,42,-88,42,-88,member,8,Saturday
+397CB7F92D7C482A,classic_bike,"2023-12-07 07:14:00","2023-12-07 07:33:00","Lincoln Park Conservatory",LP-,"McClurg Ct & Ohio St",TA1306000029,42,-88,42,-88,member,19,Thursday
+7DC8C255A52D0C4B,electric_bike,"2023-12-23 17:08:00","2023-12-23 17:24:00","Clark St & Newport St",632,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,16,Saturday
+F9306022BFDD2031,electric_bike,"2023-12-07 17:06:00","2023-12-07 17:19:00","Central Ave & Roscoe St",21396,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,13,Thursday
+B5E645E317303803,electric_bike,"2023-12-12 22:15:00","2023-12-12 22:28:00","Clark St & Newport St",632,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,13,Tuesday
+0094AFDA98FB26C5,electric_bike,"2023-12-15 20:23:00","2023-12-15 20:37:00","Clark St & Newport St",632,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,14,Friday
+72FCFF541D66223F,electric_bike,"2023-12-13 21:58:00","2023-12-13 22:11:00","Clark St & Newport St",632,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,13,Wednesday
+FA016C65E555DBA1,electric_bike,"2023-12-06 19:44:00","2023-12-06 19:57:00","Clark St & Newport St",632,"Kimball Ave & Belmont Ave",KA150400009X,42,-88,42,-88,member,13,Wednesday
+1F83BE34CFF17CF1,electric_bike,"2023-12-30 12:41:00","2023-12-30 12:49:00","Campbell Ave & 51st St",383,"Kedzie Ave & 57th St",346,42,-88,42,-88,casual,8,Saturday
+E5CB6AC80985639C,electric_bike,"2023-12-02 13:02:00","2023-12-02 13:10:00","Campbell Ave & 51st St",383,"Kedzie Ave & 57th St",346,42,-88,42,-88,casual,8,Saturday
+0CCB28D64CD68923,classic_bike,"2023-12-15 14:01:00","2023-12-15 14:17:00","Damen Ave & Melrose Ave",13143,"Ashland Ave & Belle Plaine Ave",13249,42,-88,42,-88,casual,16,Friday
+D47B9BFBAD950CE4,classic_bike,"2023-12-09 16:46:00","2023-12-09 16:55:00","Dearborn St & Van Buren St",624,"Desplaines St & Jackson Blvd",15539,42,-88,42,-88,member,9,Saturday
+A031472D09B693FD,classic_bike,"2023-12-13 15:55:00","2023-12-13 16:02:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,7,Wednesday
+18FD9209399F682C,electric_bike,"2023-12-26 09:02:00","2023-12-26 09:08:00","Morgan St & 31st St",TA1308000046,"Wentworth Ave & 33rd St",15445,42,-88,42,-88,member,6,Tuesday
+174630E60475C4BD,classic_bike,"2023-12-12 23:18:00","2023-12-12 23:25:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,7,Tuesday
+2B9F3DF32E881717,classic_bike,"2023-12-08 10:36:00","2023-12-08 10:49:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,13,Friday
+4A6401936C7EBEEC,electric_bike,"2023-12-20 12:34:00","2023-12-20 12:36:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,2,Wednesday
+76BFF1D1061D774E,classic_bike,"2023-12-31 12:07:00","2023-12-31 12:11:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Sunday
+C33F7BFCCC891BDE,classic_bike,"2023-12-02 14:11:00","2023-12-02 14:15:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,4,Saturday
+21CB6C77309AFF85,electric_bike,"2023-12-01 16:48:00","2023-12-01 16:53:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,5,Friday
+F0597AD6E9235D72,classic_bike,"2023-12-02 10:20:00","2023-12-02 10:23:00","Green St & Washington Blvd",13053,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,3,Saturday
+CBFBCA15FA0EBEB0,electric_bike,"2023-12-16 10:15:00","2023-12-16 10:25:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,casual,10,Saturday
+2520C89D7798C13E,classic_bike,"2023-12-13 15:58:00","2023-12-13 16:07:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Madison St",TA1305000032,42,-88,42,-88,member,9,Wednesday
+BE3884E1E8E492C1,classic_bike,"2023-12-18 16:59:00","2023-12-18 17:11:00","LaSalle St & Jackson Blvd",TA1309000004,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,12,Monday
+1F48DC364B393036,classic_bike,"2023-12-18 12:09:00","2023-12-18 12:20:00","LaSalle St & Jackson Blvd",TA1309000004,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,11,Monday
+70546E4CA34E57D4,electric_bike,"2023-12-15 18:50:00","2023-12-15 18:58:00","Clark St & Berwyn Ave",KA1504000146,"Western Ave & Leland Ave",TA1307000140,42,-88,42,-88,member,8,Friday
+657F80CF1A0C81D4,classic_bike,"2023-12-06 16:48:00","2023-12-06 17:02:00","LaSalle St & Jackson Blvd",TA1309000004,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,14,Wednesday
+76F58D8200A90BC3,classic_bike,"2023-12-30 10:07:00","2023-12-30 10:31:00","Western Ave & Lunt Ave",RP-005,"Western Ave & Leland Ave",TA1307000140,42,-88,42,-88,member,24,Saturday
+F67ABD0769DA43ED,classic_bike,"2023-12-15 14:00:00","2023-12-15 14:18:00","Clark St & Berwyn Ave",KA1504000146,"Sheridan Rd & Loyola Ave",RP-009,42,-88,42,-88,member,18,Friday
+7423D7951DAD17FE,classic_bike,"2023-12-12 12:07:00","2023-12-12 12:10:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,3,Tuesday
+B7FA3B3DFDA6FDDE,classic_bike,"2023-12-15 17:50:00","2023-12-15 17:53:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,3,Friday
+BEF63673C2E4CB25,classic_bike,"2023-12-19 19:55:00","2023-12-19 20:11:00","Green St & Washington Blvd",13053,"Ogden Ave & Congress Pkwy",13081,42,-88,42,-88,member,16,Tuesday
+C606F4B5289C94CC,electric_bike,"2023-12-27 13:07:00","2023-12-27 13:18:00","LaSalle St & Jackson Blvd",TA1309000004,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,11,Wednesday
+A10FDF88075A3A34,classic_bike,"2023-12-02 20:39:00","2023-12-02 20:41:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,2,Saturday
+0A15FFF163303BAD,electric_bike,"2023-12-27 15:47:00","2023-12-27 16:04:00","LaSalle St & Jackson Blvd",TA1309000004,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,17,Wednesday
+A11EB39609F6364E,classic_bike,"2023-12-09 09:27:00","2023-12-09 09:34:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Clinton St & Roosevelt Rd",WL-008,42,-88,42,-88,member,7,Saturday
+866C56399A0252B2,electric_bike,"2023-12-28 06:04:00","2023-12-28 06:09:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Sheffield Ave & Wellington Ave",TA1307000052,42,-88,42,-88,member,5,Thursday
+C65A9FC8551FAD7B,classic_bike,"2023-12-30 10:46:00","2023-12-30 11:02:00","DuSable Lake Shore Dr & Belmont Ave",TA1309000049,"Clark St & Elm St",TA1307000039,42,-88,42,-88,member,16,Saturday
+DB85CEA9A89DBDB3,electric_bike,"2023-12-17 15:01:00","2023-12-17 15:03:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,2,Sunday
+5BDA4543233F3B70,electric_bike,"2023-12-13 15:23:00","2023-12-13 15:24:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,1,Wednesday
+BE1A089FCB0F3C32,classic_bike,"2023-12-28 15:57:00","2023-12-28 16:18:00","Morgan St & 31st St",TA1308000046,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,21,Thursday
+6A623B9704C7BC30,electric_bike,"2023-12-20 14:49:00","2023-12-20 15:07:00","Morgan St & 31st St",TA1308000046,"Wabash Ave & 9th St",TA1309000010,42,-88,42,-88,member,18,Wednesday
+ED5B4D78125A7E7A,electric_bike,"2023-12-19 19:08:00","2023-12-19 19:16:00","Ashland Ave & Chicago Ave",13247,"Western Ave & Division St",13241,42,-88,42,-88,member,8,Tuesday
+851355EC3FA5AAB2,classic_bike,"2023-12-13 17:34:00","2023-12-13 17:42:00","Broadway & Belmont Ave",13277,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Wednesday
+EBD92AB37E9CCB64,classic_bike,"2023-12-11 18:08:00","2023-12-11 18:19:00","Ashland Ave & Chicago Ave",13247,"Damen Ave & Division St",13136,42,-88,42,-88,member,11,Monday
+59478CEB86014FAE,classic_bike,"2023-12-29 14:44:00","2023-12-29 14:51:00","Clifton Ave & Armitage Ave",TA1307000163,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,member,7,Friday
+ED6276264B2B3FC7,classic_bike,"2023-12-28 13:34:00","2023-12-28 13:56:00","Sangamon St & Lake St",TA1306000015,"Western Ave & Division St",13241,42,-88,42,-88,member,22,Thursday
+2D8984B9E630F7D6,classic_bike,"2023-12-26 14:02:00","2023-12-26 14:19:00","Sangamon St & Lake St",TA1306000015,"Western Ave & Division St",13241,42,-88,42,-88,member,17,Tuesday
+201B7297346345C7,classic_bike,"2023-12-15 16:25:00","2023-12-15 16:48:00","Ashland Ave & Chicago Ave",13247,"Millennium Park",13008,42,-88,42,-88,member,23,Friday
+688B06F1E05640B7,classic_bike,"2023-12-23 05:28:00","2023-12-23 05:41:00","Spaulding Ave & Armitage Ave",15650,"Damen Ave & Division St",13136,42,-88,42,-88,member,13,Saturday
+1E2429A3F7B00A61,classic_bike,"2023-12-21 07:24:00","2023-12-21 07:31:00","Claremont Ave & Hirsch St",13245,"Damen Ave & Division St",13136,42,-88,42,-88,member,7,Thursday
+FFC4870958EEAA2C,classic_bike,"2023-12-14 17:17:00","2023-12-14 17:52:00","Dearborn St & Monroe St",TA1305000006,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,35,Thursday
+AD301D8D5BA7A579,classic_bike,"2023-12-02 15:36:00","2023-12-02 15:42:00","Michigan Ave & Washington St",13001,"Millennium Park",13008,42,-88,42,-88,casual,6,Saturday
+7CE42DE86A909E3B,classic_bike,"2023-12-01 20:20:00","2023-12-01 20:30:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,10,Friday
+7441FD14FB612589,electric_bike,"2023-12-14 15:48:00","2023-12-14 16:14:00","Michigan Ave & Washington St",13001,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,26,Thursday
+6299914C7A75C408,classic_bike,"2023-12-22 15:48:00","2023-12-22 15:58:00","Leavitt St & Armitage Ave",TA1309000029,"Damen Ave & Division St",13136,42,-88,42,-88,member,10,Friday
+2D30C2E160248CE7,classic_bike,"2023-12-24 11:26:00","2023-12-24 11:35:00","Leavitt St & Armitage Ave",TA1309000029,"Damen Ave & Division St",13136,42,-88,42,-88,member,9,Sunday
+7292C9186F0B3F1F,classic_bike,"2023-12-30 23:31:00","2023-12-30 23:40:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,9,Saturday
+A68BFD8FC459EA2C,classic_bike,"2023-12-07 23:01:00","2023-12-07 23:10:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,9,Thursday
+6096FB4CB690A036,electric_bike,"2023-12-07 12:42:00","2023-12-07 12:50:00","Wood St & Milwaukee Ave",13221,"Western Ave & Division St",13241,42,-88,42,-88,member,8,Thursday
+1342AA62FA08E72B,classic_bike,"2023-12-09 11:16:00","2023-12-09 11:25:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,9,Saturday
+05EA26B80383AD34,classic_bike,"2023-12-24 08:57:00","2023-12-24 09:23:00","Lakefront Trail & Bryn Mawr Ave",15576,"Theater on the Lake",TA1308000001,42,-88,42,-88,member,26,Sunday
+8DECFB464D4BCADB,classic_bike,"2023-12-01 17:17:00","2023-12-01 17:30:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,13,Friday
+839A74DD6104BA9E,classic_bike,"2023-12-30 14:03:00","2023-12-30 14:34:00","Claremont Ave & Hirsch St",13245,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,31,Saturday
+63EF92939F86C206,classic_bike,"2023-12-17 11:52:00","2023-12-17 12:32:00","Wood St & Milwaukee Ave",13221,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,casual,40,Sunday
+442240FD6C3039B8,classic_bike,"2023-12-07 16:18:00","2023-12-07 16:46:00","Canal St & Taylor St",15550,"Millennium Park",13008,42,-88,42,-88,casual,28,Thursday
+83963702C78BF06A,classic_bike,"2023-12-14 18:29:00","2023-12-14 18:33:00","Dearborn St & Monroe St",TA1305000006,"LaSalle St & Adams St",KA1503000034,42,-88,42,-88,member,4,Thursday
+DE183D225113B371,classic_bike,"2023-12-05 18:43:00","2023-12-05 19:02:00","Morgan St & 18th St",13163,"Millennium Park",13008,42,-88,42,-88,member,19,Tuesday
+741C404E2FFBF391,electric_bike,"2023-12-03 20:53:00","2023-12-03 21:18:00","Public Rack - Hollywood Park",1276,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,25,Sunday
+83C9AAAC2A7288FB,classic_bike,"2023-12-10 10:12:00","2023-12-10 10:58:00","Western Ave & 21st St",13091,"Western Ave & 24th St",TA1309000003,42,-88,42,-88,member,46,Sunday
+843476ED8A73AB54,classic_bike,"2023-12-17 10:52:00","2023-12-17 10:56:00","Franklin St & Chicago Ave",13017,"State St & Pearson St",TA1307000061,42,-88,42,-88,member,4,Sunday
+BD878D436B2BBAFC,electric_bike,"2023-12-04 23:18:00","2023-12-04 23:20:00","Michigan Ave & Washington St",13001,"Millennium Park",13008,42,-88,42,-88,member,2,Monday
+430F16C523B0F6B3,classic_bike,"2023-12-21 17:18:00","2023-12-21 18:03:00","Michigan Ave & Washington St",13001,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,45,Thursday
+19F1D0E5516461FF,classic_bike,"2023-12-28 09:28:00","2023-12-28 09:37:00","Claremont Ave & Hirsch St",13245,"Damen Ave & Division St",13136,42,-88,42,-88,casual,9,Thursday
+E26B93F3FA4718BE,electric_bike,"2023-12-27 18:03:00","2023-12-27 18:22:00","Lakefront Trail & Bryn Mawr Ave",15576,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,19,Wednesday
+91853BB3E9DF9E79,electric_bike,"2023-12-15 14:37:00","2023-12-15 15:00:00","Dearborn St & Monroe St",TA1305000006,"Western Ave & Division St",13241,42,-88,42,-88,member,23,Friday
+774FE983A72F07CB,classic_bike,"2023-12-19 17:13:00","2023-12-19 17:32:00","Lakefront Trail & Bryn Mawr Ave",15576,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,19,Tuesday
+B6BD2D1E0B578859,electric_bike,"2023-12-08 17:19:00","2023-12-08 17:33:00","Leavitt St & Armitage Ave",TA1309000029,"Western Ave & Division St",13241,42,-88,42,-88,member,14,Friday
+732D07C294C19BFC,classic_bike,"2023-12-20 07:44:00","2023-12-20 07:55:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,11,Wednesday
+2FE0450C4BA4BCCF,classic_bike,"2023-12-04 09:16:00","2023-12-04 09:28:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,12,Monday
+97B8744CCEBDFD2F,classic_bike,"2023-12-06 17:39:00","2023-12-06 17:49:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,10,Wednesday
+05BD4F7505015CA6,classic_bike,"2023-12-07 07:55:00","2023-12-07 08:10:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,15,Thursday
+664F145B7242DF65,classic_bike,"2023-12-06 07:38:00","2023-12-06 07:51:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,13,Wednesday
+8A15631827F8E479,classic_bike,"2023-12-18 11:07:00","2023-12-18 11:20:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,13,Monday
+11FFC64CF9DAC8DE,classic_bike,"2023-12-13 07:47:00","2023-12-13 07:58:00","Broadway & Argyle St",13108,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,11,Wednesday
+F0CEA68EEBCA9367,electric_bike,"2023-12-20 23:32:00","2023-12-20 23:45:00","Wood St & Milwaukee Ave",13221,"State St & Pearson St",TA1307000061,42,-88,42,-88,member,13,Wednesday
+8262B323958CE964,electric_bike,"2023-12-13 23:27:00","2023-12-13 23:40:00","Wood St & Milwaukee Ave",13221,"State St & Pearson St",TA1307000061,42,-88,42,-88,member,13,Wednesday
+72E5239A3CF344DD,classic_bike,"2023-12-13 06:39:00","2023-12-13 06:47:00","Damen Ave & Melrose Ave",13143,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,member,8,Wednesday
+AA391499C29EC483,classic_bike,"2023-12-21 06:51:00","2023-12-21 07:20:00","Clark St & Newport St",632,"Damen Ave & Division St",13136,42,-88,42,-88,casual,29,Thursday
+42FD464F95854762,classic_bike,"2023-12-08 22:20:00","2023-12-08 22:33:00","Damen Ave & Melrose Ave",13143,"Broadway & Sheridan Rd",13323,42,-88,42,-88,casual,13,Friday
+E84E84B8A389CE85,electric_bike,"2023-12-12 17:04:00","2023-12-12 17:09:00","Clark St & Newport St",632,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,casual,5,Tuesday
+345EA4A039B94CD4,classic_bike,"2023-12-26 13:49:00","2023-12-26 13:54:00","Clark St & Newport St",632,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,casual,5,Tuesday
+6932150301A1924D,electric_bike,"2023-12-26 01:38:00","2023-12-26 01:46:00","Sheridan Rd & Argyle St",13059,"Broadway & Sheridan Rd",13323,42,-88,42,-88,casual,8,Tuesday
+D1DF87D6A8C6BB37,electric_bike,"2023-12-09 13:53:00","2023-12-09 14:00:00","Clark St & Newport St",632,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,7,Saturday
+92596C2FA3F0AAE9,electric_bike,"2023-12-12 07:27:00","2023-12-12 07:53:00","Sheridan Rd & Argyle St",13059,"Damen Ave & Division St",13136,42,-88,42,-88,member,26,Tuesday
+C7ED65A705C804B1,classic_bike,"2023-12-02 17:10:00","2023-12-02 17:30:00","Clark St & Newport St",632,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,20,Saturday
+862DBA5FB2977C65,electric_bike,"2023-12-07 07:28:00","2023-12-07 07:54:00","Sheridan Rd & Argyle St",13059,"Damen Ave & Division St",13136,42,-88,42,-88,member,26,Thursday
+581EDB884D86F51A,classic_bike,"2023-12-03 18:07:00","2023-12-03 18:15:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Sunday
+7492F787F7936713,classic_bike,"2023-12-09 16:48:00","2023-12-09 16:53:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,5,Saturday
+17D806C9F2F92DD9,classic_bike,"2023-12-07 18:26:00","2023-12-07 18:30:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,member,4,Thursday
+75BC904414191C6B,classic_bike,"2023-12-23 15:40:00","2023-12-23 16:01:00","Bernard St & Elston Ave",18016,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,21,Saturday
+D363862396EE649F,classic_bike,"2023-12-07 13:14:00","2023-12-07 13:22:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Thursday
+47E28940886EFA46,classic_bike,"2023-12-30 14:46:00","2023-12-30 15:05:00","Bernard St & Elston Ave",18016,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,19,Saturday
+2623B8E6E4E1FBD2,classic_bike,"2023-12-25 09:07:00","2023-12-25 09:26:00","Bernard St & Elston Ave",18016,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,19,Monday
+5A4F1F14E4E7B5F6,classic_bike,"2023-12-08 14:05:00","2023-12-08 14:10:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,5,Friday
+6778556164BC168B,classic_bike,"2023-12-06 19:30:00","2023-12-06 19:37:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,7,Wednesday
+83DEA25F3248188D,classic_bike,"2023-12-07 00:18:00","2023-12-07 00:24:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,member,6,Thursday
+024635374E377918,classic_bike,"2023-12-28 17:47:00","2023-12-28 17:53:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,6,Thursday
+74E32AD00FEC9A86,classic_bike,"2023-12-13 00:49:00","2023-12-13 00:57:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,member,8,Wednesday
+FCC65BC4BF2282A1,classic_bike,"2023-12-10 09:04:00","2023-12-10 10:24:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,casual,80,Sunday
+E413AEDAB89651B5,electric_bike,"2023-12-15 11:39:00","2023-12-15 12:13:00","St. Clair St & Erie St",13016,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,34,Friday
+A558DABEF5592864,classic_bike,"2023-12-25 15:10:00","2023-12-25 15:35:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,casual,25,Monday
+559889D60250F3A4,classic_bike,"2023-12-25 15:11:00","2023-12-25 15:35:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,casual,24,Monday
+7.01E+56,electric_bike,"2023-12-25 15:40:00","2023-12-25 16:00:00","St. Clair St & Erie St",13016,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,20,Monday
+8D4DC0E0A3E94C7E,electric_bike,"2023-12-25 15:41:00","2023-12-25 15:59:00","St. Clair St & Erie St",13016,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,18,Monday
+F92D5BD7DC9950CD,electric_bike,"2023-12-13 16:23:00","2023-12-13 16:46:00","Wacker Dr & Washington St",KA1503000072,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,casual,23,Wednesday
+4FE06E21F9BBA790,classic_bike,"2023-12-23 11:48:00","2023-12-23 12:22:00","St. Clair St & Erie St",13016,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,34,Saturday
+D67C6F44395A8BB4,classic_bike,"2023-12-23 11:48:00","2023-12-23 12:22:00","St. Clair St & Erie St",13016,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,34,Saturday
+41707586B7BA40B4,classic_bike,"2023-12-04 14:13:00","2023-12-04 14:17:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,casual,4,Monday
+0BEB7654893DF30D,classic_bike,"2023-12-23 15:37:00","2023-12-23 15:46:00","Southport Ave & Waveland Ave",13235,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,casual,9,Saturday
+195BF5F70C21C9E1,electric_bike,"2023-12-06 20:55:00","2023-12-06 21:02:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,casual,7,Wednesday
+10932F3D30BADEF8,electric_bike,"2023-12-07 21:42:00","2023-12-07 21:45:00","N Sheffield Ave & W Wellington Ave",20256,"Lincoln Ave & Diversey Pkwy",TA1307000064,42,-88,42,-88,member,3,Thursday
+251B04853DB4F097,electric_bike,"2023-12-11 16:55:00","2023-12-11 17:02:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,7,Monday
+B72878790F78D981,classic_bike,"2023-12-16 12:10:00","2023-12-16 12:18:00","St. Clair St & Erie St",13016,"State St & Pearson St",TA1307000061,42,-88,42,-88,member,8,Saturday
+D392E91B59CE577C,classic_bike,"2023-12-31 09:55:00","2023-12-31 10:07:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,member,12,Sunday
+4E5349669B51D501,classic_bike,"2023-12-10 09:45:00","2023-12-10 09:56:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,member,11,Sunday
+13D8DBE6EC322DB3,classic_bike,"2023-12-14 18:29:00","2023-12-14 18:40:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,member,11,Thursday
+80AED8752716D05C,classic_bike,"2023-12-16 14:38:00","2023-12-16 14:43:00","Eberhart Ave & 61st St",KA1503000033,"Drexel Ave & 60th St",22005,42,-88,42,-88,casual,5,Saturday
+BF25114D4C04591F,classic_bike,"2023-12-07 13:44:00","2023-12-07 13:51:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,casual,7,Thursday
+DFDF5FB741A15C74,classic_bike,"2023-12-08 22:22:00","2023-12-08 22:32:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,casual,10,Friday
+E51C128FBDC2B007,classic_bike,"2023-12-17 16:09:00","2023-12-17 16:39:00","St. Clair St & Erie St",13016,"LaSalle St & Adams St",KA1503000034,42,-88,42,-88,member,30,Sunday
+FF15E650FD50511D,classic_bike,"2023-12-07 13:14:00","2023-12-07 13:22:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Thursday
+532D324032608013,electric_bike,"2023-12-21 14:48:00","2023-12-21 14:53:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,casual,5,Thursday
+92EA0E17A1D94566,classic_bike,"2023-12-08 10:56:00","2023-12-08 11:01:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,5,Friday
+B0DB120AED145517,classic_bike,"2023-12-04 11:23:00","2023-12-04 12:43:00","University Ave & 57th St",KA1503000071,"Millennium Park",13008,42,-88,42,-88,casual,80,Monday
+E626BD7D21127A89,electric_bike,"2023-12-04 09:21:00","2023-12-04 09:26:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,member,5,Monday
+FD2BB7DF3FA776CC,electric_bike,"2023-12-01 12:52:00","2023-12-01 13:02:00","University Ave & 57th St",KA1503000071,"Drexel Ave & 60th St",22005,42,-88,42,-88,member,10,Friday
+39C6EB340AB74EFF,classic_bike,"2023-12-05 17:49:00","2023-12-05 17:58:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,casual,9,Tuesday
+D8A5C487208E35D8,classic_bike,"2023-12-15 14:51:00","2023-12-15 15:40:00","Broadway & Granville Ave",15571,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,49,Friday
+8A8A4F7AF6D0C0CD,electric_bike,"2023-12-20 13:50:00","2023-12-20 14:45:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,casual,55,Wednesday
+E7E9E5A13B266438,electric_bike,"2023-12-20 13:51:00","2023-12-20 14:43:00","St. Clair St & Erie St",13016,"Millennium Park",13008,42,-88,42,-88,casual,52,Wednesday
+AA8CD176E8451F55,classic_bike,"2023-12-15 14:49:00","2023-12-15 15:40:00","Broadway & Granville Ave",15571,"Theater on the Lake",TA1308000001,42,-88,42,-88,casual,51,Friday
+D4881E9075AFC518,classic_bike,"2023-12-16 14:25:00","2023-12-16 15:06:00","California Ave & North Ave",13258,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,41,Saturday
+305C877CBD4D4770,classic_bike,"2023-12-18 14:34:00","2023-12-18 14:52:00","St. Clair St & Erie St",13016,"LaSalle St & Adams St",KA1503000034,42,-88,42,-88,member,18,Monday
+573F10A2C4F6EE16,classic_bike,"2023-12-02 23:04:00","2023-12-02 23:11:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,7,Saturday
+90A27365318D3354,classic_bike,"2023-12-30 22:19:00","2023-12-30 22:27:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Saturday
+BDEF34604853C028,classic_bike,"2023-12-15 20:14:00","2023-12-15 20:22:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,8,Friday
+1708955094AB9BBB,classic_bike,"2023-12-08 20:55:00","2023-12-08 21:02:00","Southport Ave & Waveland Ave",13235,"Pine Grove Ave & Waveland Ave",TA1307000150,42,-88,42,-88,member,7,Friday
+F6512134B5CBFCDE,electric_bike,"2023-12-09 08:57:00","2023-12-09 09:02:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,5,Saturday
+687D718BA6E2A34A,classic_bike,"2023-12-15 06:27:00","2023-12-15 06:33:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,6,Friday
+FD7CB12AE83F8D78,electric_bike,"2023-12-04 19:17:00","2023-12-04 19:23:00","Southport Ave & Waveland Ave",13235,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,6,Monday
+B1B06FD263E3A997,electric_bike,"2023-12-15 15:37:00","2023-12-15 15:58:00","St. Clair St & Erie St",13016,"Broadway & Sheridan Rd",13323,42,-88,42,-88,member,21,Friday
+3E73A098A854C2D1,electric_bike,"2023-12-12 17:48:00","2023-12-12 17:52:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,4,Tuesday
+0BE70A1AB380EC39,classic_bike,"2023-12-19 17:37:00","2023-12-19 17:45:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,8,Tuesday
+C0283BE13F914CBC,classic_bike,"2023-12-21 07:37:00","2023-12-21 07:51:00","Sedgwick St & North Ave",TA1307000038,"Fairbanks St & Superior St",18003,42,-88,42,-88,member,14,Thursday
+3CA65BF913B46814,electric_bike,"2023-12-29 20:50:00","2023-12-29 21:04:00","Ashland Ave & Chicago Ave",13247,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,14,Friday
+819EFF27972D13D0,classic_bike,"2023-12-13 13:36:00","2023-12-13 13:43:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,7,Wednesday
+ED113A120410AB7A,electric_bike,"2023-12-15 07:00:00","2023-12-15 07:03:00","Clifton Ave & Armitage Ave",TA1307000163,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,member,3,Friday
+849B395AC1E2EC7B,classic_bike,"2023-12-10 13:23:00","2023-12-10 13:39:00","Clinton St & Polk St",15542,"Dearborn St & Erie St",13045,42,-88,42,-88,member,16,Sunday
+AD5555E4B4E6F3AB,classic_bike,"2023-12-14 19:46:00","2023-12-14 20:12:00","Malcolm X College",631,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,26,Thursday
+E1FFD105398D2FCF,electric_bike,"2023-12-11 07:38:00","2023-12-11 07:55:00","Broadway & Belmont Ave",13277,"Dearborn St & Erie St",13045,42,-88,42,-88,member,17,Monday
+2C9C7972F0EA38E6,classic_bike,"2023-12-28 17:16:00","2023-12-28 17:21:00","Sangamon St & Lake St",TA1306000015,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Thursday
+6452E597BBFAF1EB,classic_bike,"2023-12-28 08:36:00","2023-12-28 08:44:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,8,Thursday
+C531AD3FA738919E,electric_bike,"2023-12-05 08:38:00","2023-12-05 08:45:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Tuesday
+A061A407E9282CE1,electric_bike,"2023-12-20 08:15:00","2023-12-20 08:21:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,6,Wednesday
+68CAFF67FC57D32C,classic_bike,"2023-12-04 17:18:00","2023-12-04 17:22:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,4,Monday
+DF3E32A51DB6C607,classic_bike,"2023-12-14 17:08:00","2023-12-14 17:14:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,6,Thursday
+C0E3A0AEB56B1EBF,classic_bike,"2023-12-07 17:51:00","2023-12-07 17:58:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,7,Thursday
+0D26964D6D28D491,classic_bike,"2023-12-06 16:42:00","2023-12-06 16:48:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,6,Wednesday
+52E704041CF960AB,classic_bike,"2023-12-15 14:44:00","2023-12-15 14:49:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,5,Friday
+B766C1A558F9D9D6,electric_bike,"2023-12-22 08:35:00","2023-12-22 08:41:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,6,Friday
+D4977B0DC93595CC,classic_bike,"2023-12-06 08:40:00","2023-12-06 08:49:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Wednesday
+5408FABFBE998DB0,classic_bike,"2023-12-26 09:04:00","2023-12-26 09:11:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Tuesday
+34751B8EE086D725,classic_bike,"2023-12-13 08:36:00","2023-12-13 08:46:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,10,Wednesday
+927FC4C12FFCBE71,electric_bike,"2023-12-27 14:12:00","2023-12-27 14:44:00","St. Clair St & Erie St",13016,"California Ave & Byron St",15628,42,-88,42,-88,member,32,Wednesday
+0EEAE40B7571535E,classic_bike,"2023-12-05 15:58:00","2023-12-05 16:02:00","Halsted St & 35th St",TA1308000043,"Racine Ave & 35th St",15446,42,-88,42,-88,member,4,Tuesday
+B3A7FB61C4E1FAB4,electric_bike,"2023-12-15 13:05:00","2023-12-15 13:12:00","Wacker Dr & Washington St",KA1503000072,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,casual,7,Friday
+B867CE520D46C12B,electric_bike,"2023-12-13 12:34:00","2023-12-13 12:41:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Wednesday
+1F6A5939259BA64B,electric_bike,"2023-12-21 08:33:00","2023-12-21 08:38:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,5,Thursday
+97E7486D9AE4464F,classic_bike,"2023-12-12 08:06:00","2023-12-12 08:16:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,10,Tuesday
+A6288FEF02A6633F,electric_bike,"2023-12-07 13:35:00","2023-12-07 13:54:00","St. Clair St & Erie St",13016,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,19,Thursday
+3F053DAE760DDBC6,electric_bike,"2023-12-14 08:05:00","2023-12-14 08:12:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Thursday
+CA849368F97FB0F1,classic_bike,"2023-12-24 08:30:00","2023-12-24 08:42:00","St. Clair St & Erie St",13016,"Dusable Harbor",KA1503000064,42,-88,42,-88,member,12,Sunday
+BA73E4F41BAEB25E,classic_bike,"2023-12-13 11:06:00","2023-12-13 11:14:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,8,Wednesday
+73FDCB36E1061126,classic_bike,"2023-12-29 13:59:00","2023-12-29 14:08:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Friday
+CEB761979D58D3DA,electric_bike,"2023-12-11 14:22:00","2023-12-11 14:30:00","Wacker Dr & Washington St",KA1503000072,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,8,Monday
+30593BF183494D5E,electric_bike,"2023-12-26 17:17:00","2023-12-26 17:26:00","Bernard St & Elston Ave",18016,"California Ave & Altgeld St",15646,42,-88,42,-88,member,9,Tuesday
+311F1DA39BA12494,classic_bike,"2023-12-18 17:41:00","2023-12-18 17:46:00","Sangamon St & Washington Blvd",13409,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Monday
+31011AA0BFD86EDF,classic_bike,"2023-12-15 17:42:00","2023-12-15 18:38:00","Bernard St & Elston Ave",18016,"Fairbanks St & Superior St",18003,42,-88,42,-88,casual,56,Friday
+3946BD5FCEDEB11D,classic_bike,"2023-12-06 09:15:00","2023-12-06 09:45:00","St. Clair St & Erie St",13016,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,casual,30,Wednesday
+B013918C8D7FB3B0,classic_bike,"2023-12-06 09:16:00","2023-12-06 09:44:00","St. Clair St & Erie St",13016,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,casual,28,Wednesday
+0E58CA25E43BEC54,classic_bike,"2023-12-09 11:11:00","2023-12-09 11:16:00","Sangamon St & Washington Blvd",13409,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Saturday
+88DD857A368F0AA1,electric_bike,"2023-12-13 16:56:00","2023-12-13 17:05:00","Wacker Dr & Washington St",KA1503000072,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,9,Wednesday
+D1D73E266586165D,electric_bike,"2023-12-13 16:18:00","2023-12-13 16:21:00","Wacker Dr & Washington St",KA1503000072,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,3,Wednesday
+91AE69A02D9DB08C,electric_bike,"2023-12-14 13:10:00","2023-12-14 13:24:00","St. Clair St & Erie St",13016,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,14,Thursday
+99F7A4190A9C2BEE,electric_bike,"2023-12-05 16:20:00","2023-12-05 16:22:00","Wacker Dr & Washington St",KA1503000072,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,2,Tuesday
+ED0B93F725FDDA7D,classic_bike,"2023-12-20 08:46:00","2023-12-20 08:58:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,12,Wednesday
+D4B5246F1364B625,classic_bike,"2023-12-06 08:43:00","2023-12-06 08:56:00","Wacker Dr & Washington St",KA1503000072,"Dearborn St & Erie St",13045,42,-88,42,-88,member,13,Wednesday
+C2DC17ADE407085B,electric_bike,"2023-12-19 07:56:00","2023-12-19 08:02:00","Wacker Dr & Washington St",KA1503000072,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,6,Tuesday
+A4C2D3CA71D96A51,classic_bike,"2023-12-21 18:28:00","2023-12-21 18:38:00","Dearborn St & Van Buren St",624,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,10,Thursday
+44485683E7090E62,electric_bike,"2023-12-09 17:58:00","2023-12-09 18:12:00","Clark St & Newport St",632,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,casual,14,Saturday
+1D0A395108102FBF,electric_bike,"2023-12-09 17:58:00","2023-12-09 18:12:00","Clark St & Newport St",632,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,casual,14,Saturday
+35478CCEDE2A606E,electric_bike,"2023-12-26 13:32:00","2023-12-26 13:43:00","W Armitage Ave & N Sheffield Ave",20254,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,casual,11,Tuesday
+77F52085430E0F5E,classic_bike,"2023-12-15 19:06:00","2023-12-15 19:16:00","Franklin St & Chicago Ave",13017,"Dearborn St & Erie St",13045,42,-88,42,-88,member,10,Friday
+7D8EBE88AAECEA30,electric_bike,"2023-12-14 19:26:00","2023-12-14 19:32:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,6,Thursday
+68BC6CA3AC663FC0,classic_bike,"2023-12-06 17:09:00","2023-12-06 17:21:00","Michigan Ave & Washington St",13001,"Dearborn St & Erie St",13045,42,-88,42,-88,member,12,Wednesday
+380F924C2F53A89B,classic_bike,"2023-12-08 19:05:00","2023-12-08 19:13:00","Michigan Ave & Washington St",13001,"Dusable Harbor",KA1503000064,42,-88,42,-88,member,8,Friday
+782722176242B731,classic_bike,"2023-12-11 08:42:00","2023-12-11 08:48:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,6,Monday
+EDB045ED06F31147,classic_bike,"2023-12-07 17:57:00","2023-12-07 18:04:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Thursday
+8F2CDBD795DDBEB0,classic_bike,"2023-12-30 13:39:00","2023-12-30 13:53:00","Throop St & Taylor St",13139,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,14,Saturday
+FFAC8E4E08EB3B89,electric_bike,"2023-12-18 15:12:00","2023-12-18 15:28:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,16,Monday
+68A1202416105115,electric_bike,"2023-12-19 07:28:00","2023-12-19 07:35:00","Larrabee St & Armitage Ave",TA1309000006,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,member,7,Tuesday
+EF1A913954DE9E65,classic_bike,"2023-12-16 19:05:00","2023-12-16 19:31:00","Western Ave & 21st St",13091,"Central Park Blvd & 5th Ave",16907,42,-88,42,-88,member,26,Saturday
+0D47CC411195458E,classic_bike,"2023-12-04 08:44:00","2023-12-04 08:51:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Monday
+9550BF79C09B8F4E,electric_bike,"2023-12-06 18:34:00","2023-12-06 18:39:00","Franklin St & Chicago Ave",13017,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,5,Wednesday
+F07041A7ADCD5ABF,electric_bike,"2023-12-07 16:50:00","2023-12-07 16:54:00","Franklin St & Chicago Ave",13017,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,4,Thursday
+7EFDDEB8BF0D2D0B,electric_bike,"2023-12-29 16:21:00","2023-12-29 16:39:00","Wood St & Milwaukee Ave",13221,"Dearborn St & Erie St",13045,42,-88,42,-88,member,18,Friday
+CABD6B4884DBB161,electric_bike,"2023-12-24 15:09:00","2023-12-24 15:20:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,11,Sunday
+199AC2CCEEB6A8B9,electric_bike,"2023-12-31 15:19:00","2023-12-31 15:35:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,16,Sunday
+C6216035607DD945,electric_bike,"2023-12-13 15:14:00","2023-12-13 15:26:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,12,Wednesday
+A4AD2263AFE99D05,electric_bike,"2023-12-12 15:10:00","2023-12-12 15:25:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,15,Tuesday
+E3A1023AA2D0F73C,electric_bike,"2023-12-16 15:16:00","2023-12-16 15:33:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,17,Saturday
+18F28F94DC910D71,electric_bike,"2023-12-30 15:09:00","2023-12-30 15:25:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,16,Saturday
+DA44D0F7BB38870C,electric_bike,"2023-12-10 15:12:00","2023-12-10 15:26:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,14,Sunday
+AF3B3D6CE5C4FE11,electric_bike,"2023-12-29 15:16:00","2023-12-29 15:27:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,11,Friday
+96726111304BF006,electric_bike,"2023-12-02 14:57:00","2023-12-02 15:08:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,11,Saturday
+513C9B69B78607DA,electric_bike,"2023-12-09 15:07:00","2023-12-09 15:17:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,10,Saturday
+35E2AEE6862BBCF6,electric_bike,"2023-12-20 15:19:00","2023-12-20 15:35:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,16,Wednesday
+D34AB43FDCEE9BA3,classic_bike,"2023-12-15 16:51:00","2023-12-15 16:58:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Friday
+CAFC5B0D42F3FE7D,classic_bike,"2023-12-04 15:50:00","2023-12-04 15:57:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,7,Monday
+070A045AD6B9E883,electric_bike,"2023-12-28 15:56:00","2023-12-28 16:03:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,7,Thursday
+49D3167CD2E1AE5E,classic_bike,"2023-12-21 16:11:00","2023-12-21 16:19:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,8,Thursday
+FB642D40E0F466DC,classic_bike,"2023-12-14 06:06:00","2023-12-14 06:45:00","Lakefront Trail & Bryn Mawr Ave",15576,"California Ave & Byron St",15628,42,-88,42,-88,member,39,Thursday
+D4B412F1B8955AE3,electric_bike,"2023-12-26 14:21:00","2023-12-26 14:25:00","Franklin St & Chicago Ave",13017,"Dearborn St & Erie St",13045,42,-88,42,-88,member,4,Tuesday
+D1FA9869E8D8E117,electric_bike,"2023-12-12 21:57:00","2023-12-12 22:00:00","Michigan Ave & Washington St",13001,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,3,Tuesday
+9399CCEC204DD3D7,classic_bike,"2023-12-08 16:49:00","2023-12-08 17:32:00","Michigan Ave & Washington St",13001,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,43,Friday
+59448C1E3BC1325F,classic_bike,"2023-12-11 15:54:00","2023-12-11 16:02:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,8,Monday
+F3DB9FC8DC4B72E3,classic_bike,"2023-12-07 15:50:00","2023-12-07 15:56:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,6,Thursday
+6E10056474B6937E,classic_bike,"2023-12-09 15:53:00","2023-12-09 15:59:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,6,Saturday
+10188D52E32ED07D,classic_bike,"2023-12-07 18:33:00","2023-12-07 18:44:00","Franklin St & Chicago Ave",13017,"Fairbanks St & Superior St",18003,42,-88,42,-88,casual,11,Thursday
+5E70A40C3CDDB634,classic_bike,"2023-12-04 07:26:00","2023-12-04 07:31:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Monday
+F136B83AF2A84AF6,classic_bike,"2023-12-23 15:05:00","2023-12-23 15:28:00","Leavitt St & Armitage Ave",TA1309000029,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,casual,23,Saturday
+4F68B11A0B7F54D4,classic_bike,"2023-12-20 19:38:00","2023-12-20 20:03:00","Michigan Ave & Washington St",13001,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,25,Wednesday
+18080B1582B34FB5,electric_bike,"2023-12-22 07:46:00","2023-12-22 08:24:00","Michigan Ave & Washington St",13001,"McCormick Place",TA1305000004,42,-88,42,-88,casual,38,Friday
+668406C11755B5DA,classic_bike,"2023-12-10 16:40:00","2023-12-10 16:46:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,6,Sunday
+CD36246F633EA1D9,classic_bike,"2023-12-17 13:25:00","2023-12-17 13:36:00","Throop St & Taylor St",13139,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,11,Sunday
+BAC8C68888213CE0,electric_bike,"2023-12-15 17:13:00","2023-12-15 17:18:00","Franklin St & Chicago Ave",13017,"Fairbanks St & Superior St",18003,42,-88,42,-88,casual,5,Friday
+157F5DA1DA1D1930,classic_bike,"2023-12-12 08:13:00","2023-12-12 08:28:00","Franklin St & Chicago Ave",13017,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,15,Tuesday
+446B3CDEE8EB5BDF,classic_bike,"2023-12-08 18:24:00","2023-12-08 18:48:00","Claremont Ave & Hirsch St",13245,"Dearborn St & Erie St",13045,42,-88,42,-88,member,24,Friday
+C52E0D29D1B13F7F,classic_bike,"2023-12-12 15:00:00","2023-12-12 15:09:00","Dearborn St & Monroe St",TA1305000006,"Fairbanks St & Superior St",18003,42,-88,42,-88,member,9,Tuesday
+2099E377A3048BB1,electric_bike,"2023-12-27 15:14:00","2023-12-27 15:31:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,17,Wednesday
+A42352E3516596CD,electric_bike,"2023-12-11 15:19:00","2023-12-11 15:30:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,11,Monday
+DBE6FCBA2749CFC1,electric_bike,"2023-12-23 15:13:00","2023-12-23 15:27:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,14,Saturday
+DBB8A306396C1B8A,electric_bike,"2023-12-22 15:12:00","2023-12-22 15:26:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,14,Friday
+309823DFB0CF5E25,electric_bike,"2023-12-17 15:12:00","2023-12-17 15:22:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,10,Sunday
+0DF19D3AC2AEF43B,classic_bike,"2023-12-13 17:36:00","2023-12-13 17:55:00","California Ave & Fletcher St",15642,"St. Louis Ave & Balmoral Ave",KA1504000161,42,-88,42,-88,member,19,Wednesday
+DF2443E561386CE2,classic_bike,"2023-12-12 17:59:00","2023-12-12 18:21:00","California Ave & Fletcher St",15642,"St. Louis Ave & Balmoral Ave",KA1504000161,42,-88,42,-88,member,22,Tuesday
+2A071C2EC07FE116,classic_bike,"2023-12-06 16:16:00","2023-12-06 16:20:00","Franklin St & Chicago Ave",13017,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,4,Wednesday
+41EFE022EE41BF1D,electric_bike,"2023-12-19 10:53:00","2023-12-19 11:00:00","Dearborn St & Monroe St",TA1305000006,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,7,Tuesday
+71800E270B9A4C25,electric_bike,"2023-12-19 06:21:00","2023-12-19 06:27:00","Canal St & Taylor St",15550,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,6,Tuesday
+624F9CEFA3396A8C,electric_bike,"2023-12-15 18:22:00","2023-12-15 18:30:00","Throop St & Taylor St",13139,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,8,Friday
+EA6F0AB82087FB7E,classic_bike,"2023-12-15 18:33:00","2023-12-15 18:53:00","Dearborn St & Monroe St",TA1305000006,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,member,20,Friday
+741AA223B3C77A2A,electric_bike,"2023-12-08 17:27:00","2023-12-08 17:48:00","Larrabee St & Armitage Ave",TA1309000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,21,Friday
+B816E2FAC9CA9B98,classic_bike,"2023-12-04 05:03:00","2023-12-04 05:10:00","Leavitt St & Armitage Ave",TA1309000029,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,casual,7,Monday
+EA5257B860317575,classic_bike,"2023-12-02 09:24:00","2023-12-02 10:53:00","Michigan Ave & Washington St",13001,"Dusable Harbor",KA1503000064,42,-88,42,-88,casual,89,Saturday
+7099E7DF12C708A5,classic_bike,"2023-12-20 19:38:00","2023-12-20 20:03:00","Michigan Ave & Washington St",13001,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,25,Wednesday
+259D3436398F2E23,electric_bike,"2023-12-06 18:44:00","2023-12-06 19:05:00","Wood St & Milwaukee Ave",13221,"California Ave & Byron St",15628,42,-88,42,-88,casual,21,Wednesday
+CA6DAD797CA61D9A,electric_bike,"2023-12-26 15:30:00","2023-12-26 15:48:00","Public Rack - Throop St & 58th St",770,"Racine Ave & 35th St",15446,42,-88,42,-88,member,18,Tuesday
+E9F60B25EF367074,classic_bike,"2023-12-26 20:24:00","2023-12-26 20:28:00","Franklin St & Chicago Ave",13017,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,4,Tuesday
+88B7C4315DF9D414,electric_bike,"2023-12-16 01:12:00","2023-12-16 01:15:00","California Ave & Fletcher St",15642,"California Ave & Altgeld St",15646,42,-88,42,-88,casual,3,Saturday
+8CC069D6771D462D,classic_bike,"2023-12-29 16:20:00","2023-12-29 16:38:00","Wood St & Milwaukee Ave",13221,"Dearborn St & Erie St",13045,42,-88,42,-88,member,18,Friday
+0F2F77265F17DDCB,electric_bike,"2023-12-15 14:16:00","2023-12-15 14:22:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,6,Friday
+981F7C0D14325A30,classic_bike,"2023-12-08 14:48:00","2023-12-08 14:57:00","Dearborn St & Monroe St",TA1305000006,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,9,Friday
+D953FE2BA46B01AC,classic_bike,"2023-12-08 21:45:00","2023-12-08 21:51:00","Michigan Ave & Washington St",13001,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,6,Friday
+38EB1A69969FF4C1,electric_bike,"2023-12-04 22:08:00","2023-12-04 22:17:00","Larrabee St & Armitage Ave",TA1309000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Monday
+89D934BA4741EE69,electric_bike,"2023-12-06 22:40:00","2023-12-06 22:49:00","Larrabee St & Armitage Ave",TA1309000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,9,Wednesday
+8B4BB98076A2B0FD,electric_bike,"2023-12-06 17:05:00","2023-12-06 17:12:00","Dearborn St & Monroe St",TA1305000006,"Dearborn St & Erie St",13045,42,-88,42,-88,member,7,Wednesday
+E6C0FE0EBCBA1CBC,classic_bike,"2023-12-08 19:06:00","2023-12-08 19:14:00","California Ave & Fletcher St",15642,"California Ave & Altgeld St",15646,42,-88,42,-88,member,8,Friday
+8F88323AD719CC57,classic_bike,"2023-12-02 22:18:00","2023-12-02 22:45:00","State St & Chicago Ave",21544,"California Ave & Altgeld St",15646,42,-88,42,-88,member,27,Saturday
+DAF972DF53F5AFF8,classic_bike,"2023-12-27 13:38:00","2023-12-27 13:44:00","State St & Chicago Ave",21544,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,6,Wednesday
+CCB3189EA1CC47DB,classic_bike,"2023-12-12 15:19:00","2023-12-12 16:00:00","State St & Chicago Ave",21544,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,41,Tuesday
+173B495006A7EC8D,electric_bike,"2023-12-09 17:44:00","2023-12-09 17:50:00","State St & Chicago Ave",21544,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,6,Saturday
+4C936B6E441670F1,electric_bike,"2023-12-23 15:21:00","2023-12-23 15:25:00","State St & Chicago Ave",21544,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,4,Saturday
+F3227AED49885980,classic_bike,"2023-12-04 15:39:00","2023-12-04 15:47:00","State St & Chicago Ave",21544,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,8,Monday
+11CA2C88BB8F5BD6,electric_bike,"2023-12-22 13:47:00","2023-12-22 13:51:00","State St & Chicago Ave",21544,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,4,Friday
+A0BA5E840E3AD6E9,classic_bike,"2023-12-26 13:28:00","2023-12-26 13:30:00","State St & Chicago Ave",21544,"Dearborn St & Erie St",13045,42,-88,42,-88,member,2,Tuesday
+79A6DED9A5079917,electric_bike,"2023-12-22 11:13:00","2023-12-22 11:18:00","State St & Chicago Ave",21544,"Dearborn St & Erie St",13045,42,-88,42,-88,member,5,Friday
+C26B3703A06D7BD2,classic_bike,"2023-12-31 15:31:00","2023-12-31 15:33:00","State St & Chicago Ave",21544,"Dearborn St & Erie St",13045,42,-88,42,-88,member,2,Sunday
+57248DBFA4889600,classic_bike,"2023-12-22 11:21:00","2023-12-22 11:30:00","State St & Chicago Ave",21544,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,9,Friday
+F703F73D182304DD,classic_bike,"2023-12-02 21:23:00","2023-12-02 21:31:00","Halsted St & Willow St",TA1307000166,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,member,8,Saturday
+21CCEDB98E80B1B0,electric_bike,"2023-12-06 06:50:00","2023-12-06 06:55:00","Halsted St & Willow St",TA1307000166,"Elston Ave & Cortland St",TA1305000039,42,-88,42,-88,member,5,Wednesday
+B6DA17195F13E601,electric_bike,"2023-12-22 21:44:00","2023-12-22 21:48:00","State St & Chicago Ave",21544,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,4,Friday
+D5A9AECAA5C69D7C,classic_bike,"2023-12-11 16:54:00","2023-12-11 17:00:00","State St & Chicago Ave",21544,"Fairbanks St & Superior St",18003,42,-88,42,-88,member,6,Monday
+6EC5A5CE7749C2A2,electric_bike,"2023-12-04 17:06:00","2023-12-04 17:24:00","Wabash Ave & Roosevelt Rd",TA1305000002,"Racine Ave & 35th St",15446,42,-88,42,-88,member,18,Monday
+8F3FBD56AF0C47A2,electric_bike,"2023-12-19 12:10:00","2023-12-19 12:20:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,10,Tuesday
+989172A8171CBB01,classic_bike,"2023-12-08 16:26:00","2023-12-08 16:36:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,10,Friday
+388FDF2FCA6087F8,electric_bike,"2023-12-28 16:46:00","2023-12-28 16:53:00","LaSalle St & Jackson Blvd",TA1309000004,"Cityfront Plaza Dr & Pioneer Ct",13427,42,-88,42,-88,member,7,Thursday
+B214800467AD2718,classic_bike,"2023-12-25 10:46:00","2023-12-25 10:54:00","Green St & Washington Blvd",13053,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,8,Monday
+C05C751261C77FD5,classic_bike,"2023-12-03 12:19:00","2023-12-03 12:24:00","Green St & Washington Blvd",13053,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,5,Sunday
+74B0A2531CFF8AE0,electric_bike,"2023-12-01 14:19:00","2023-12-01 14:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,9,Friday
+A1EC3374C7BD047E,classic_bike,"2023-12-29 22:37:00","2023-12-29 22:47:00","LaSalle St & Jackson Blvd",TA1309000004,"Clinton St & Jackson Blvd",638,42,-88,42,-88,casual,10,Friday
+263FF2450AA1D172,classic_bike,"2023-12-02 12:00:00","2023-12-02 12:13:00","Kedzie Ave & Palmer Ct",13292,"California Ave & Altgeld St",15646,42,-88,42,-88,casual,13,Saturday
+1BB9BCD39E85BAEF,classic_bike,"2023-12-12 07:08:00","2023-12-12 07:17:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,casual,9,Tuesday
+9E0C93F9520D4283,electric_bike,"2023-12-11 21:54:00","2023-12-11 21:58:00","Green St & Washington Blvd",13053,"Clinton St & Jackson Blvd",638,42,-88,42,-88,member,4,Monday
+5703EE606278107B,classic_bike,"2023-12-14 08:17:00","2023-12-14 08:28:00","LaSalle St & Jackson Blvd",TA1309000004,"Dearborn St & Erie St",13045,42,-88,42,-88,member,11,Thursday
+29469C31B1E9C325,electric_bike,"2023-12-18 08:40:00","2023-12-18 08:51:00","Wilton Ave & Diversey Pkwy",TA1306000014,"Larrabee St & Oak St",KA1504000116,42,-88,42,-88,member,11,Monday
+57C78642C15B2662,electric_bike,"2023-12-27 07:01:00","2023-12-27 07:10:00","Sedgwick St & North Ave",TA1307000038,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,9,Wednesday
+DF05883803D88307,classic_bike,"2023-12-19 07:51:00","2023-12-19 08:04:00","Sedgwick St & North Ave",TA1307000038,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,13,Tuesday
+B4D18FFAF829DBC8,classic_bike,"2023-12-15 08:45:00","2023-12-15 08:57:00","Sedgwick St & North Ave",TA1307000038,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,12,Friday
+877DB64F1ACF24E2,electric_bike,"2023-12-04 21:04:00","2023-12-04 21:23:00","W Armitage Ave & N Sheffield Ave",20254,"Racine Ave & 18th St",13164,42,-88,42,-88,member,19,Monday
+2F9EEC11C3989125,classic_bike,"2023-12-17 20:20:00","2023-12-17 20:28:00","Canal St & Taylor St",15550,"900 W Harrison St",13028,42,-88,42,-88,member,8,Sunday
+88E4D312CD5437CF,electric_bike,"2023-12-23 06:29:00","2023-12-23 06:44:00","Claremont Ave & Hirsch St",13245,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,15,Saturday
+3A9A35B17F1B59E7,classic_bike,"2023-12-06 09:30:00","2023-12-06 09:59:00","Michigan Ave & Washington St",13001,"Racine Ave & 18th St",13164,42,-88,42,-88,member,29,Wednesday
+F08A27F1B219F717,classic_bike,"2023-12-30 11:33:00","2023-12-30 12:14:00","South Shore Dr & 67th St",KA1503000029,"Fort Dearborn Dr & 31st St*",chargingstx06,42,-88,42,-88,member,41,Saturday
+CB745F6EB6C457E2,classic_bike,"2023-12-29 12:04:00","2023-12-29 12:57:00","South Shore Dr & 67th St",KA1503000029,"Fort Dearborn Dr & 31st St*",chargingstx06,42,-88,42,-88,member,53,Friday
+646CCB3E6E67029D,electric_bike,"2023-12-22 08:18:00","2023-12-22 08:33:00","Claremont Ave & Hirsch St",13245,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,15,Friday
+3C3E113D54A5BD70,classic_bike,"2023-12-04 12:22:00","2023-12-04 12:29:00","Throop St & Taylor St",13139,"900 W Harrison St",13028,42,-88,42,-88,member,7,Monday
+D450F511B431E228,electric_bike,"2023-12-04 09:13:00","2023-12-04 09:18:00","Canal St & Taylor St",15550,"900 W Harrison St",13028,42,-88,42,-88,member,5,Monday
+39B85195A9CE3F88,classic_bike,"2023-12-14 09:33:00","2023-12-14 09:41:00","Franklin St & Chicago Ave",13017,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,member,8,Thursday
+B4F593DBC19B273F,classic_bike,"2023-12-28 13:40:00","2023-12-28 14:27:00","South Shore Dr & 67th St",KA1503000029,"Fort Dearborn Dr & 31st St*",chargingstx06,42,-88,42,-88,member,47,Thursday
+2265C35B257BBD00,classic_bike,"2023-12-01 09:14:00","2023-12-01 09:21:00","Throop St & Taylor St",13139,"900 W Harrison St",13028,42,-88,42,-88,member,7,Friday
+B0EE91A753B8FE94,classic_bike,"2023-12-09 07:41:00","2023-12-09 07:43:00","Morgan St & 18th St",13163,"Racine Ave & 18th St",13164,42,-88,42,-88,member,2,Saturday
+6B0141C9BE6C9900,classic_bike,"2023-12-06 10:14:00","2023-12-06 10:16:00","Morgan St & 18th St",13163,"Racine Ave & 18th St",13164,42,-88,42,-88,member,2,Wednesday
+E8FD92F9699A0A0C,classic_bike,"2023-12-13 08:33:00","2023-12-13 08:39:00","Throop St & Taylor St",13139,"900 W Harrison St",13028,42,-88,42,-88,member,6,Wednesday
+41EF39520C609C22,electric_bike,"2023-12-08 07:53:00","2023-12-08 08:07:00","Claremont Ave & Hirsch St",13245,"Damen Ave & Madison St",13134,42,-88,42,-88,member,14,Friday
+4CA3420F7897AEBA,classic_bike,"2023-12-22 10:39:00","2023-12-22 10:53:00","Wood St & Milwaukee Ave",13221,"Damen Ave & Madison St",13134,42,-88,42,-88,member,14,Friday
+7338F952C69BD18E,classic_bike,"2023-12-27 14:24:00","2023-12-27 15:20:00","South Shore Dr & 67th St",KA1503000029,"Fort Dearborn Dr & 31st St*",chargingstx06,42,-88,42,-88,member,56,Wednesday
+1AEBCF4B732A6F6C,classic_bike,"2023-12-05 12:45:00","2023-12-05 12:53:00","Morgan St & 18th St",13163,"900 W Harrison St",13028,42,-88,42,-88,member,8,Tuesday
+A332D89FC9E13CAB,electric_bike,"2023-12-06 08:01:00","2023-12-06 08:05:00","Morgan St & 18th St",13163,"900 W Harrison St",13028,42,-88,42,-88,casual,4,Wednesday
+80E23A4EF3DC8B2D,electric_bike,"2023-12-14 07:05:00","2023-12-14 07:17:00","Claremont Ave & Hirsch St",13245,"Damen Ave & Madison St",13134,42,-88,42,-88,member,12,Thursday
+5E4A20F5E0EE62A2,electric_bike,"2023-12-08 17:42:00","2023-12-08 17:47:00","Throop St & Taylor St",13139,"Racine Ave & 18th St",13164,42,-88,42,-88,casual,5,Friday
+7BA192314C83CF10,classic_bike,"2023-12-15 12:20:00","2023-12-15 12:25:00","Western Ave & 21st St",13091,"Damen Ave/Coulter St",PI00001,42,-88,42,-88,casual,5,Friday
+00A6FE5F32AC5E76,classic_bike,"2023-12-12 13:01:00","2023-12-12 13:17:00","South Shore Dr & 67th St",KA1503000029,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,16,Tuesday
+5081BB1003105C5A,electric_bike,"2023-12-15 13:26:00","2023-12-15 13:50:00","Franklin St & Chicago Ave",13017,"Damen Ave/Coulter St",PI00001,42,-88,42,-88,member,24,Friday
+98A473AB99880B25,classic_bike,"2023-12-08 11:39:00","2023-12-08 11:56:00","South Shore Dr & 67th St",KA1503000029,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,17,Friday
+9FCF461E5BF860E7,electric_bike,"2023-12-12 16:58:00","2023-12-12 17:05:00","Michigan Ave & Washington St",13001,"Mies van der Rohe Way & Chicago Ave",13338,42,-88,42,-88,casual,7,Tuesday
+2E5B321A1679A7A1,classic_bike,"2023-12-27 00:34:00","2023-12-27 00:46:00","Western Ave & 21st St",13091,"Racine Ave & 18th St",13164,42,-88,42,-88,casual,12,Wednesday
+D0C28C7E89792141,electric_bike,"2023-12-23 04:12:00","2023-12-23 04:16:00","Morgan St & 18th St",13163,"Racine Ave & 18th St",13164,42,-88,42,-88,member,4,Saturday
+F6E523AC776849F8,classic_bike,"2023-12-06 23:16:00","2023-12-06 23:22:00","Throop St & Taylor St",13139,"900 W Harrison St",13028,42,-88,42,-88,member,6,Wednesday
+5F76BADD0725ABDF,classic_bike,"2023-12-22 15:14:00","2023-12-22 15:35:00","Dearborn St & Monroe St",TA1305000006,"Racine Ave & 18th St",13164,42,-88,42,-88,member,21,Friday
+E7D433A830A47022,electric_bike,"2023-12-15 14:18:00","2023-12-15 14:31:00","Dearborn St & Monroe St",TA1305000006,"Racine Ave & 18th St",13164,42,-88,42,-88,member,13,Friday
+CA3C2416BC48CEFC,electric_bike,"2023-12-28 16:03:00","2023-12-28 16:18:00","Dearborn St & Monroe St",TA1305000006,"Racine Ave & 18th St",13164,42,-88,42,-88,member,15,Thursday
+9DDBB4AB98950BB5,classic_bike,"2023-12-01 13:17:00","2023-12-01 13:21:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Friday
+7A3FBDAA924798B4,classic_bike,"2023-12-14 18:40:00","2023-12-14 18:44:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Thursday
+7347A936B788AD11,classic_bike,"2023-12-03 15:33:00","2023-12-03 15:37:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Sunday
+66A3FCF28D8A705B,classic_bike,"2023-12-06 12:58:00","2023-12-06 13:02:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Wednesday
+481A03E64C935C21,classic_bike,"2023-12-08 17:39:00","2023-12-08 17:43:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Friday
+830D640385B1A044,classic_bike,"2023-12-06 17:22:00","2023-12-06 17:27:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,5,Wednesday
+20D67F29B7177306,classic_bike,"2023-12-03 16:32:00","2023-12-03 16:35:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Sunday
+545AC7AF41C9CB1C,classic_bike,"2023-12-02 18:02:00","2023-12-02 18:05:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Saturday
+DD56949DA98CA2B6,electric_bike,"2023-12-02 22:02:00","2023-12-02 22:05:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Saturday
+7069A72FD5DDC0A6,electric_bike,"2023-12-03 22:14:00","2023-12-03 22:16:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,2,Sunday
+7F1C9A5AD6E27630,electric_bike,"2023-12-07 14:23:00","2023-12-07 14:25:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,2,Thursday
+A442E6BBF50CB781,classic_bike,"2023-12-05 19:19:00","2023-12-05 19:23:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Tuesday
+FD8B02A26BEDB830,classic_bike,"2023-12-04 11:52:00","2023-12-04 11:57:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,5,Monday
+E48423C9019F2BB7,classic_bike,"2023-12-03 19:49:00","2023-12-03 19:52:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Sunday
+63E65BA7E41275D9,classic_bike,"2023-12-02 16:38:00","2023-12-02 16:41:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Saturday
+B5EAF96C9FAA50DE,electric_bike,"2023-12-02 13:52:00","2023-12-02 13:54:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,2,Saturday
+CD4F717A4C5E732D,classic_bike,"2023-12-03 16:49:00","2023-12-03 16:52:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Sunday
+AC680E82BC252D7C,electric_bike,"2023-12-02 22:02:00","2023-12-02 22:04:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,2,Saturday
+5C05BE847CB6B60F,classic_bike,"2023-12-08 13:51:00","2023-12-08 13:55:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Friday
+A83857B9D9BD793A,classic_bike,"2023-12-06 16:30:00","2023-12-06 16:34:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Wednesday
+07A4DD966933C25F,classic_bike,"2023-12-03 15:24:00","2023-12-03 15:27:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Sunday
+A8F3923DA1C5BFDA,classic_bike,"2023-12-02 21:09:00","2023-12-02 21:13:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Saturday
+585903364D6E77D5,classic_bike,"2023-12-02 17:25:00","2023-12-02 17:29:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Saturday
+5DB95315D137CD99,classic_bike,"2023-12-06 14:16:00","2023-12-06 14:19:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Wednesday
+59ED50105E4FEFE7,classic_bike,"2023-12-05 14:16:00","2023-12-05 14:19:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,3,Tuesday
+75E72C4580D68905,classic_bike,"2023-12-04 21:32:00","2023-12-04 21:36:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Monday
+9BEC53BE0CAA648F,classic_bike,"2023-12-08 11:34:00","2023-12-08 11:39:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,5,Friday
+0ADA148D4ECC1604,classic_bike,"2023-12-05 18:49:00","2023-12-05 18:53:00","University Ave & 57th St",KA1503000071,"Ellis Ave & 60th St",KA1503000014,42,-88,42,-88,member,4,Tuesday
